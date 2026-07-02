@@ -1,0 +1,90 @@
+% Professional resume — pdfLaTeX, no custom template required
+% Compile: make professional
+
+\documentclass[11pt,letterpaper]{article}
+\usepackage[margin=0.65in]{geometry}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{hyperref}
+\usepackage{tabularx}
+
+\hypersetup{colorlinks=true, urlcolor=blue, linkcolor=black}
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+
+\titleformat{\section}{\large\bfseries\uppercase}{}{0pt}{}[\titlerule]
+\titlespacing*{\section}{0pt}{10pt}{4pt}
+
+\newcommand{\role}[4]{%
+  \textbf{#1} \hfill #2\\
+  \textit{#3} \hfill \textit{#4}\\[-2pt]
+}
+
+\begin{document}
+
+\begin{center}
+  {\LARGE\bfseries Dr. Julia Hasty}\\[6pt]
+  \href{mailto:jay@resilientmarkets.com}{jay@resilientmarkets.com} \textbullet{}
+  \href{https://www.linkedin.com/in/dr-jay/}{linkedin.com/in/dr-jay} \textbullet{}
+  540.798.2312 \textbullet{} Albany, CA
+\end{center}
+
+\vspace{4pt}
+\begin{center}
+\small
+PhD materials scientist \textbullet{} XPrize winner \textbullet{}
+900+ clean energy deployments in 35+ countries \textbullet{}
+microgrids, water systems, energy policy
+\end{center}
+
+\section{Experience}
+
+\role{Resilient Markets}{2020 -- Present}{Managing Partner}{Albany, CA}
+\begin{itemize}[nosep, leftmargin=*]
+  \item Technical assessments of biomass, solar, and battery microgrids for critical infrastructure, agriculture, and water
+  \item Policy and regulatory research with MaxETA for the Puerto Rico Energy Bureau
+\end{itemize}
+
+\role{10Power}{2020 -- Present}{Technical Lead}{San Francisco, CA}
+\begin{itemize}[nosep, leftmargin=*]
+  \item Published the 2024 Energy Plan for the Alaska Native Village of Eklutna
+  \item Grant writing and integrated microgrid development for Native American tribal communities
+\end{itemize}
+
+\role{Corvidae, LLC}{2017 -- 2020}{Founder}{Oakland, CA}
+\begin{itemize}[nosep, leftmargin=*]
+  \item Advised 15+ early-stage clean-tech companies; led Puerto Rico microgrid portfolio and co-founded ACEPR cooperatives accelerator
+\end{itemize}
+
+\role{SkySource}{2018}{Systems Engineer}{Berkeley, CA}
+\begin{itemize}[nosep, leftmargin=*]
+  \item \textbf{Winner, 2018 Water Abundance XPrize}: biomass-powered atmospheric water (2,000 L/day at $\sim$2\textcent/L)
+\end{itemize}
+
+\role{ALL Power Labs}{2009 -- 2017}{Engineering Director}{Berkeley, CA}
+\begin{itemize}[nosep, leftmargin=*]
+  \item Directed 15 engineers; 900+ deployments of 150 kW gasification systems in 35+ countries
+  \item NSF Principal Investigator; USAID project lead (250 homes, Liberia)
+\end{itemize}
+
+\role{Earlier roles}{2007 -- 2021}{}{}
+CPWater Tech, Box Power, NanoSulf, Portland Biodiesel; American Red Cross NAT Lab (FDA-regulated testing); Stony Brook PhD research and adjunct teaching.
+
+\section{Education}
+
+\textbf{Ph.D., Materials Science \& Engineering} (Chemical Engineering focus) --- Stony Brook University\\
+\textbf{B.S., Chemistry} --- Radford University
+
+\section{Selected publications \& patents}
+
+Patents US 8,829,695 \& US 9,476,352 (compact gasifier-genset architecture, 2017).\\
+\textit{Fuel} (2016); \textit{J. Renewable Sustainable Energy} (2015). Full list: \texttt{publications-supplement.pdf}.
+
+\section{Skills}
+
+\textbf{Laboratory:} NMR, FTIR, UV-VIS, HPLC, PCR, GC-MS, SEM, TEM\\
+\textbf{Engineering:} Gasification, microgrids, water systems, automation\\
+\textbf{Tools:} Python, \LaTeX, Solidworks, ChemCAD, Fusion360
+
+\end{document}

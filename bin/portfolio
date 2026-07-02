@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+# Portfolio CLI helpers — add to PATH or call directly:
+#   ~/jayprograms/portfolio/bin/portfolio auth-gmail
+
+set -euo pipefail
+ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+
+case "${1:-}" in
+  auth-gmail)
+    exec "$ROOT/scripts/run-google-workspace-mcp.sh" auth
+    ;;
+  *)
+    echo "Usage: portfolio <command>" >&2
+    echo "  auth-gmail   Authenticate Google Workspace MCP (Gmail + Drive)" >&2
+    exit 1
+    ;;
+esac

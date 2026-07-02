@@ -1,0 +1,119 @@
+% Option A: Sidebar layout (AltaCV-inspired, local pdfLaTeX)
+% Compile: make sidebar
+
+\documentclass[10pt,letterpaper]{article}
+\usepackage[margin=0.5in]{geometry}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{paracol}
+
+\definecolor{sidebar}{HTML}{2F3E46}
+\definecolor{sidebarText}{HTML}{FFFFFF}
+\definecolor{accent}{HTML}{52796F}
+
+\hypersetup{colorlinks=true, urlcolor=accent, linkcolor=black}
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\columnsep}{0.35in}
+
+\titleformat{\section}{\normalsize\bfseries\color{accent}}{}{0pt}{}[\vspace{2pt}\titlerule]
+\titlespacing*{\section}{0pt}{8pt}{4pt}
+
+\newcommand{\sidebarheading}[1]{{\bfseries\color{sidebarText}#1\par\vspace{4pt}}}
+\newcommand{\sidebaritem}[1]{{\small\color{sidebarText}#1\par\vspace{3pt}}}
+\newcommand{\role}[4]{%
+  {\bfseries #1} \hfill {\small #2}\\[-1pt]
+  {\itshape #3} \hfill {\small\itshape #4}\\[2pt]
+}
+
+\begin{document}
+
+\begin{paracol}{2}
+\colorbox{sidebar}{%
+  \begin{minipage}[t][\textheight][t]{0.30\textwidth}
+    \vspace{8pt}
+    \hspace{8pt}
+    \begin{minipage}{0.88\linewidth}
+      {\LARGE\bfseries\color{sidebarText} Dr. Julia Hasty}\\[8pt]
+      \sidebaritem{\href{mailto:jay@resilientmarkets.com}{jay@resilientmarkets.com}}
+      \sidebaritem{540.798.2312}
+      \sidebaritem{Albany, CA}
+      \sidebaritem{\href{https://www.linkedin.com/in/dr-jay/}{linkedin.com/in/dr-jay}}
+
+      \vspace{10pt}
+      \sidebarheading{Summary}
+      \sidebaritem{PhD materials scientist who scaled biomass gasification to 900+ deployments worldwide, won the Water Abundance XPrize, and leads energy policy and microgrid programs.}
+
+      \vspace{8pt}
+      \sidebarheading{Education}
+      \sidebaritem{Ph.D., Materials Science \& Engineering\\Stony Brook University}
+      \sidebaritem{B.S., Chemistry\\Radford University}
+
+      \vspace{8pt}
+      \sidebarheading{Patents}
+      \sidebaritem{US 8,829,695}
+      \sidebaritem{US 9,476,352}
+      \sidebaritem{Compact gasifier-genset (2017)}
+
+      \vspace{8pt}
+      \sidebarheading{Skills}
+      \sidebaritem{Laboratory: NMR, FTIR, GC-MS, SEM, TEM, HPLC, PCR}
+      \sidebaritem{Engineering: gasification, microgrids, water systems}
+      \sidebaritem{Tools: Python, Solidworks, ChemCAD, Fusion360}
+
+      \vspace{8pt}
+      \sidebarheading{Highlights}
+      \sidebaritem{2018 Water Abundance XPrize}
+      \sidebaritem{900+ systems, 35+ countries}
+      \sidebaritem{NSF PI \& USAID project lead}
+    \end{minipage}
+  \end{minipage}
+}
+
+\switchcolumn
+\vspace{-4pt}
+
+\section{Experience}
+
+\role{Resilient Markets}{2020 -- Present}{Managing Partner}{Albany, CA}
+\begin{itemize}[nosep, leftmargin=*, topsep=0pt]
+  \item Lead technical assessments of biomass, solar, and battery microgrids for critical infrastructure, agriculture, and water clients
+  \item Coordinate policy and regulatory research with MaxETA for the Puerto Rico Energy Bureau
+\end{itemize}
+
+\role{10Power}{2020 -- Present}{Technical Lead}{San Francisco, CA}
+\begin{itemize}[nosep, leftmargin=*, topsep=0pt]
+  \item Published the 2024 Energy Plan for the Alaska Native Village of Eklutna
+  \item Lead grant writing and integrated microgrid development for Native American tribal communities
+\end{itemize}
+
+\role{Corvidae, LLC}{2017 -- 2020}{Founder}{Oakland, CA}
+\begin{itemize}[nosep, leftmargin=*, topsep=0pt]
+  \item Advised 15+ early-stage clean-tech companies on biofuels, biomaterials, biochar, and hydrogen
+  \item Led microgrid development for a 25-building Puerto Rico portfolio; co-founded ACEPR electric cooperatives accelerator
+\end{itemize}
+
+\role{SkySource}{2018}{Systems Engineer}{Berkeley, CA}
+\begin{itemize}[nosep, leftmargin=*, topsep=0pt]
+  \item \textbf{Winner, 2018 Water Abundance XPrize}: designed biomass-powered atmospheric water system (2,000 L/day at $\sim$2\textcent/L)
+\end{itemize}
+
+\role{ALL Power Labs}{2009 -- 2017}{Engineering Director}{Berkeley, CA}
+\begin{itemize}[nosep, leftmargin=*, topsep=0pt]
+  \item Directed team of 15 engineers; scaled 150 kW gasification systems to 900+ deployments in 35+ countries
+  \item Principal Investigator, NSF grant; Project Lead, USAID grant powering 250 homes in Liberia
+\end{itemize}
+
+\role{Selected earlier roles}{}{}{}
+{\small CPWater Tech (water purification, NYS \& NSF awards) \textbullet{} Box Power (mobile solar microgrids) \textbullet{} NanoSulf \textbullet{} Portland Biodiesel (1M gal/yr) \textbullet{} American Red Cross NAT Lab \textbullet{} Stony Brook research \& adjunct teaching}
+
+\section{Publications}
+{\small
+\textit{Fuel} (2016) \textbullet{} \textit{J. Renewable Sustainable Energy} (2015) \textbullet{} COP21 oral presentation (2015)\\
+See \texttt{publications-supplement.pdf} for full list.
+}
+
+\end{paracol}
+\end{document}

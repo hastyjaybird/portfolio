@@ -1,0 +1,79 @@
+# Genmoji
+
+| Field | Value |
+|---|---|
+| Organization | Genmoji (also spelled "Genmogi" across Jay's own contract/Drive files — same company) |
+| Role/title | Technical & business development consultant — thermal/chemical systems, solar+storage financial modeling, community engagement (via Corvidae, LLC) |
+| Dates | Relationship began ~2018 ("it's been great getting to know you over the last year," per the Jan 24, 2019 signed contract); **formal retainer signed Jan 24, 2019**; confirmed active through at least **Aug 2020** (COVID-era payment correspondence), with regulatory-docket CC's placing Jay on PR energy-industry distribution lists as late as **Dec 2021** |
+| Location | Puerto Rico (San Juan), remote work from Bay Area |
+| One-line summary | Far broader than "business & project development": real technical consulting on thermal/chemical equipment, microgrid assessments for a San Juan hospital and a boys-and-girls school, solar+storage financial modeling for warehouse/industrial rooftop projects (directly overlapping the IOGS/Guardiola Real Estate portfolio), new wind-turbine technology evaluation, and business strategy inside Puerto Rico's uniquely tangled post-Maria regulatory/financial landscape — partnered with the makers of the "Airmoji" suspended wind turbine. |
+
+## Why this is its own folder
+
+Split out from `../corvidae/README.md` on 2026-07-01 per Jay's request — every real Corvidae client gets its own experience folder; `corvidae/README.md` keeps the umbrella story and cross-references each client folder.
+
+## Key facts (verified, 2026-07-01)
+
+- Independently confirmed online: co-founded by Vanessa Carballido and Francisco Laboy (Chief Strategy Officer/Founder). Company name appears as both "Genmoji" and "Genmogi" — same company, spelling drifted across files (Jay's own signed contract and most Drive files use "Genmogi"; the public-facing brand/press use "Genmoji").
+- Flagship product: the "Airmoji," a magnetically-driven suspended wind turbine generating up to 15kW in <20mph wind. Featured in Forbes and on a USPTO video. Sources: [Forbes](https://www.forbes.com/sites/melissarowley/2020/08/26/women-at-the-forefront-of-puerto-ricos-energy-revolution/), [USPTO](https://www.uspto.gov/learning-and-resources/uspto-videos/genmojis-microgrid-turbine).
+- **Real signed contract found ("Genmogi - Terms of Collaboration," Jan 24, 2019):** subject "Technical support on thermal and chemical equipment" — "Management of technical assessment, installation and troubleshooting of thermal and chemical systems." $1,500/month retainer for up to 12 hrs, $150/hr thereafter, plus mileage and expenses. This is a materially different, more hands-on technical scope than "business & project development" — real mechanical/process engineering work, not just strategy.
+- **Direct overlap with the IOGS/Guardiola Real Estate (GRE) industrial park project confirmed:** a Genmoji strategy deck ("GENMOGI Additional Information") explicitly cites financial figures "From GRE Portfolio" and models payback periods (4.3–5.8 years) using GRE's actual warehouse energy-consumption data — meaning Jay's Genmoji work and her IOGS work drew on the same underlying industrial-park dataset. Cross-reference `../iogs/README.md`.
+- **Named specific projects found, confirmed and expanded by Jay (2026-07-01):**
+  - **"Sabana-IndustrialVille"** — a modeled 6.5MW PV / 3.5MWh storage project, $16.4M total investment, 19.83% IRR, $25.5M NPV (per the strategy deck's financial model).
+  - **"Arecibo project"** — a separate engagement (Dec 2019–Jan 2020 emails) where Jay was asked to build a financial model/structure for a $4K budget, following an in-person whiteboard planning session with Francisco and teammate Mario Landau Holdsworth.
+  - **"SP Medflix"** — **confirmed by Jay: a microgrid assessment for a hospital in San Juan** (chiller/solar-thermal procurement work, April 2020, contractor Falkon Air) — resolves the earlier open question about what this project actually was.
+  - **A Boys and Girls school microgrid project** — a second, separate microgrid assessment Jay did through Genmoji, for a boys-and-girls school in Puerto Rico (distinct from the hospital project above).
+  - **New wind turbine technology evaluation** — beyond the Airmoji itself, Jay evaluated at least one additional emerging wind turbine design as part of Genmoji/Francisco's broader practice of scouting new technology for first-to-market deployment in Puerto Rico.
+- **Real project-management infrastructure found:** "Genmoji_Project_Template.csv" — a full commercial solar developer project-management template (phases: Customer Close → Budget Approval → Due Diligence → Utility Interconnection → Design and Engineering), and a detailed team/budget-scaling spreadsheet modeling a ~$1.3M/year fully-staffed organization (technology officer, engineers, sales, legal, admin) — evidence Genmoji was operating at a genuine (if small) commercial-development level, not just prototyping.
+- **International recognition confirmed:** Genmoji was selected for the **Global Entrepreneurship Summit (GES) 2019 in the Netherlands**; Jay's own email recounts that this led to direct engagement with the Dutch government's hydrogen/methane regulatory body.
+- **Community-development networking found:** a "SOMOS leads" contact spreadsheet (Nov–Dec 2018) shows Jay doing real relationship-building for community solar/microgrid projects — contacts at the Hispanic Federation (Charlotte Gossett Navarro, PR Operations Director), labor unions (SSEU Local 371), NYC's Boys & Girls Club, and CDBG-DR disaster-recovery funding contacts — tying this work into the broader post-Maria community energy-equity landscape alongside ACEPR.
+- **Personal/professional overlap:** co-founder Vanessa Carballido personally helped Jay complete her own Puerto Rico **Act 20 tax decree application** (Dec 2019) — the professional relationship crossed into mutual personal favors, a sign of real trust between them.
+- **COVID-19 disruption documented:** email correspondence (April–Aug 2020) shows Genmoji went dark for weeks due to a "budget problem," with Francisco apologizing for delayed payments to Jay and her collaborator Mario — a real, human account of a small PR clean-energy startup struggling to survive the pandemic's early shock.
+- **Continued regulatory involvement:** Jay was still being CC'd on official Puerto Rico Energy Bureau (PREB/JRSP) regulatory dockets (e.g., NEPR-MI-2019-0001, NEPR-MI-2019-0011 — distribution resource planning and wheeling rules) as late as December 2021 — suggesting her involvement in PR's energy-policy ecosystem (whether still active for Genmoji specifically, or carried over into other PR energy work) outlasted the "ongoing" note from the Wix export.
+
+## The regulatory/financial complexity Jay operated inside (her own account, 2026-07-01)
+
+Beyond the technical work, Jay did real business strategy and development for Genmoji inside what she describes as a genuinely tangled regulatory and financial environment — worth capturing in full because it's a strong demonstration of operating competence in a uniquely difficult market, and it applies equally to her IOGS/ACEPR/Corvidae PR work generally, not just Genmoji:
+- **PREB** (Puerto Rico Energy Bureau) and **PREPA** (the public power utility) — overlapping/evolving regulatory and operational authority.
+- **The Title III bankruptcy court and FOMB** (the federal Financial Oversight and Management Board) — PR's public debt was under federal bankruptcy oversight, adding a whole separate layer of financial/legal authority above the island's own government.
+- **LUMA Energy** — the private operator that took over PREPA's transmission/distribution.
+- Puerto Rico's **unincorporated territory status**, which creates a genuine legal incompatibility between the island's civil-law tradition and the mainland US's common-law system — compounded by **Spanish/English legal-interpretation** differences.
+- **Bondholders** with claims on PREPA's restructuring, a **declining population** shrinking the ratepayer base, ongoing **post-Hurricane-Maria** recovery dynamics, and real **political turmoil** (she specifically references the 2019 governor resignation crisis — "Ricky Rosselló renuncia").
+- The **Jones Act**, which raises shipping/logistics costs for anything moving to the island.
+- **Utility line-worker pension fund** obligations layered into the restructuring fight.
+- Real difficulty **securing financing or insurance** for energy projects given all of the above.
+- **Local politics** fragmented across PR's **78 individual municipalities ("alcaldes")**, each with real local power and its own political dynamics to navigate.
+
+Her own framing: doing business development and project strategy inside this stack — simultaneously navigating federal bankruptcy court, a territorial civil/common-law mismatch, a privatized utility operator, bondholder litigation, and 78 separate local power bases — is a genuinely unusual credential. Few technical consultants anywhere have had to build real commercial projects inside a regulatory environment this layered and contested.
+
+## Values/character — why Francisco and Vanessa specifically (Jay's own account, 2026-07-01)
+
+Jay is candid about how much she owes Francisco Laboy for teaching her "the ins and outs of Puerto Rico." Francisco is Puerto Rican but had also spent time in the US, so he could code-switch fluently between "Puerto Rican" and "stateside white-people business" register — which made him exactly the right person to orient her. Her own framing is unusually self-aware: she recognizes she was, on his land, a new white woman from the States — "truly an archetype that can annoy the hell out of Puerto Ricans," given the island's history with the US, tourism, and outside meddling in its affairs. She's conscious of that dynamic when she travels, stays humble, and deliberately picks people who can act as **local stewards for her while also being genuine mentors** — Francisco was that person, and she truly took direction from him.
+
+She describes real professional admiration, not just gratitude: Francisco was "an advanced entrepreneur" — a developer who scoped emerging technologies, negotiated IP-sharing deals with suppliers, and built a first-to-market advantage by being the one who brought cutting-edge tech to Puerto Rico first. His wife and Genmoji co-founder, Vanessa, is a lawyer — together Jay saw them as "the ultimate power couple," and says so plainly: "I really admired them." She connects this directly to her own aspirations — she wants to be part of a power couple taking on the world in her own industry, and at the time, that role in her own life was filled by Mario Landau Holdsworth, her Genmoji collaborator. This is a genuinely candid, values-revealing admission: professional admiration for a couple's dynamic doubling as a template for what she wanted for herself.
+
+## `[INTERVIEW-DEPTH STORY]` — how COVID forced Jay out of Puerto Rico (Jay's own account, 2026-07-01)
+
+Jay was in **South Africa visiting Scarab Tech in May 2020** when the world shut down. All flights were cancelled, and she couldn't get out for **three weeks**. She eventually had to call the **US State Department** directly to arrange an emergency repatriation flight back to JFK. But Puerto Rico's COVID entry rules were so strict at the time that she couldn't get back to her own apartment in San Juan — so instead she flew to California, where her brother lived. She had to get friends in Puerto Rico to move her out of her San Juan apartment for her and ship back only about a tenth of her belongings; the rest was left behind. She ended up spending the COVID lockdown in Oakland, California — a move she describes as "unexpected, abrupt, and heartbreaking." This is the real, concrete event that ended Jay's Puerto Rico chapter and set up her return to the Bay Area — worth cross-referencing anywhere her PR-based work (IOGS, ACEPR, Genmoji, Corvidae) is described as winding down around 2020, since this is the actual mechanism, not a planned transition.
+
+## Summary — why this is compelling
+
+Genmoji looked like a one-line "business & project development" footnote before this pass, but the actual paper trail shows something much more substantial: a real signed technical retainer for thermal/chemical systems work, hands-on equipment procurement (chillers, inverter drives), full financial modeling for multi-megawatt solar+storage projects, and a genuine project-management operation with its own CRM-style templates and staffing model. It also quietly connects two separate threads of Jay's Puerto Rico chapter together — the same GRE industrial-park data she used for IOGS shows up inside Genmoji's own financial models, meaning her post-Maria PR energy work wasn't a set of disconnected gigs but one continuous body of expertise she kept redeploying across clients. And it has real texture: an international stage (GES 2019 in the Netherlands), a scrappy near-miss with COVID (a founder going dark for weeks over a "budget problem," then paying up and apologizing), and a level of personal trust with co-founder Vanessa Carballido good enough that she helped Jay with her own tax paperwork. It's a strong example of Jay operating as an embedded technical utility player inside a small, real, internationally-recognized startup — not just a strategy advisor from a distance.
+
+## Used in
+
+- [ ] `content/master-profile.md` — still just folded into Corvidae's "15+ clients" summary line (fine for the 2-min pitch level)
+- [x] `content/experience-database.md` — added 2026-07-01 as its own sub-entry under Corvidae
+
+## Evaluation (2026-07-01)
+
+- **Resume/portfolio strength:** strong — a real, sustained (1.5+ year), embedded technical relationship with concrete deliverables (two named microgrid assessments, procurement work, financial modeling for MW-scale projects), inside one of the most operationally complex regulatory/financial environments a clean-tech consultant could work in.
+- **Anthropic alignment angle to carry forward:** the Francisco/Vanessa mentorship story (cultural humility, deliberately choosing local stewards who are also mentors, self-awareness about her own outsider archetype) is strong material for any question about operating responsibly in unfamiliar contexts — hasn't been ported anywhere beyond this README yet.
+- **Best-use values point:** the PR regulatory-complexity list (PREB/PREPA/LUMA/Title III/FOMB/Jones Act/78 municipalities) is a concrete demonstration of operating competence amid genuine institutional complexity — worth pulling into interview prep as evidence she can function inside contested, multi-layered systems, not just clean greenfield environments.
+- **Not yet resolved:** the COVID-evacuation story is dramatic and valuable but currently has no clean home of its own — it belongs to the end of Jay's Puerto Rico chapter generally, not to Genmoji specifically. Worth flagging for later interview-prep/bio work.
+
+## Still needed
+
+- Logo found and saved (`images/genmoji-email-logo.png`, from Jay's own Drive) — still no image of the Airmoji product itself
+- Confirm whether Jay's continued 2021 presence on PREB regulatory dockets was still on Genmoji's behalf specifically, or had migrated to a different PR energy-policy role by then
+- Name of the boys-and-girls school for the second microgrid project, and confirm which specific new wind-turbine design was evaluated (beyond the Airmoji itself)

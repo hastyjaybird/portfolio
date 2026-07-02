@@ -1,0 +1,60 @@
+# ACEPR (Asociación de Cooperativas Eléctricas de Puerto Rico)
+
+| Field | Value |
+|---|---|
+| Organization | ACEPR |
+| Role/title | Co-founder (Executive Director title used at launch, per earlier CVs) |
+| Dates | 2018–present |
+| Location | Puerto Rico |
+| One-line summary | Organized the emerging electric-utility-cooperative and solar/battery industry after PREB's first-ever cooperative regulation; work here directly led to the ongoing MaxETA/PREB engagement. |
+
+## Key facts (verified)
+
+- **Context:** Founded post-Hurricane Maria, during/after the longest and most deadly power outage in U.S. history — funding for new ventures was extremely difficult in that environment. PREB (Puerto Rico Energy Bureau) had just issued regulation permitting electric utility cooperatives to form and operate for the first time; ACEPR organized the emerging industry (cooperatives + solar/battery installers) to capture the momentum.
+- PREB was overwhelmed by the volume of entities needing certification; Jay worked directly with PREB to streamline their certification process and hold public comment.
+- **Cohort project numbers confirmed via colleague Mario Landau-Holdsworth's resume, 2026-06-30:** 46 MW hydroelectric dam, 150-building mixed residential/commercial portfolio, 800 distributed homes in a mountainous community. Supersedes earlier "8 cooperatives, 100–200kW" figures.
+- **Context on the mid-2020 shift away from in-person PR presence (found 2026-07-01, full story in `../genmoji/README.md`):** COVID-19 forced Jay out of Puerto Rico — she was stranded in South Africa when global flights shut down in May 2020, got a State Department repatriation flight to JFK, but PR's strict entry rules meant she couldn't return to her San Juan apartment, so she relocated to Oakland, CA instead. Worth keeping in mind when characterizing how "hands-on/in-person" her ACEPR involvement was before vs. after mid-2020.
+- **Cohort project outcomes (names intentionally withheld from all materials — see below):**
+  - The hydroelectric dam cooperative (rural central-mountain region, ~61,000 people across five municipalities) pivoted away from hydro toward solar — original plan contemplated 46 MW from 3 dams plus up to 5 MW blocks of distributed solar + storage (~$17.5M per 5 MW block).
+  - A rural, low-income mountain community that took a direct hurricane hit (7+ months without power) got its solar cooperative built: 2–2.5 MW solar + battery storage serving 800+ households (~3,000 residents), ~$10M total development cost. Became **Puerto Rico's first certified renewable-energy electric utility cooperative.**
+- **This work is the direct origin of the MaxETA relationship** — see `../resilient-markets-maxeta/`.
+- Partners named on Wix and confirmed by Jay for the ACEPR advisor/co-founder role: **Gente Brava** and **TeamHouse** (TeamHouse is also documented as a Corvidae engagement — see `../teamhouse/README.md`).
+- **True co-founders confirmed by Jay (2026-07-01): Gustavo "Gus" Diaz, JI (Cruz), David Geeter, and Oscar Ruiz** — Adam Krim was **not** a co-founder of ACEPR. Adam was part of Puerto Rico's post-Maria "crypto bro" arrival wave — a group locals (Jay included) were genuinely skeptical of, but tolerated on a case-by-case basis when they showed up respectfully and put real money into locally-owned projects rather than just speculating. See the crypto-financing skepticism context in `../cat5-solar-microgrids/README.md`.
+
+## Origin story (Jay's own account, 2026-07-01)
+
+- ACEPR's origin traces directly to the Box Power Humacao humanitarian deployment (see `../boxpower/README.md`) — Jay met PR community members at a conference, Box Power did the deployment as charity, and Jay went to Humacao herself to install the system, staying about 10 days.
+- **The idea was forged in real time at the San Juan airport — corrected 2026-07-01: Jay never actually boarded the flight or left the island.** While in line for her booked return flight after the 10-day Humacao installation, Jay saw a news article that PREB had just passed the new microgrid regulation — which, for the first time, also allowed electric utility cooperatives to form and operate. She called her Puerto Rican friend **Gustavo "Gus" Diaz** to check if he'd seen the same article, and made the decision to stay before ever leaving SJU — she simply never boarded her paid flight home. This wasn't a logistical problem, since she was already working remotely with Box Power anyway.
+- **Why Puerto Rico specifically, beyond the immediate crisis (Jay's own account, 2026-07-01):** she's careful about the framing here — "I hate to say I was inspired by someone else's pain," but the closest honest description is a "holy shit, this is an ignition point for positive change" feeling. Puerto Rico was genuinely fertile ground for this specific opportunity, for reasons well beyond the storm itself: the island had passed a 100% renewable energy mandate years earlier; it was in the middle of deregulating its energy sector and preparing to dismantle PREPA's public monopoly and open the market to other players; it has strong solar resources and a historical base of hydroelectric dams; Puerto Rico has an unusually strong education system; there's a distinct resilience and ingenuity that comes from living isolated from other major land masses on a small island; cooperative adoption was already culturally high; and the energy commissioners themselves were IEEE-credentialed electrical engineers and lawyers — genuinely capable regulators. And, bluntly: people were furious. All of those elements were already primed for a movement, and the storm was the moment the dam broke.
+- **Housing/community context:** Gus hosted Jay at his community house, **"The HackerHouse"** — a co-living/co-working space that was, by Gus and friends' own description, "95% good people from the states" plus local younger Puerto Ricans working to build a better future for the island. Gus's HackerHouse also held a contract with **Parallel 18** (Puerto Rico's official startup accelerator) to house Parallel 18's own cohort participants.
+- **New affiliation surfaced:** Jay went on to become **an advisor at Parallel 18** itself, PR's national startup accelerator — a distinct role from ACEPR, not yet documented anywhere else in this repo. `[FOLLOW UP]` — worth deciding whether this warrants its own experience folder or stays as a note here.
+- **HackerHouse/TeamHouse resolved (confirmed by Jay, 2026-07-01): these are the same place.** Gus rebranded "The HackerHouse" to "TeamHouse" because the latter name is more consumable/accessible to a broader audience. Use "TeamHouse" as the canonical name going forward in all materials; "HackerHouse" was the original, more insider-facing name.
+
+## Travel/policy engagement detail (Jay's own account, 2026-07-01)
+
+- Around the CPWaterTech/NYSERDA-EIR period (2019), Jay was regularly traveling between New York, DC, and Puerto Rico — driven mainly by becoming a public participant in Puerto Rico energy policy.
+- **In Puerto Rico:** worked with **Jorge Camacho**, who facilitated public workshops with PREB during a period when the federal government was more actively engaged with PR — the US DOE and national labs participated directly in workshops held in San Juan.
+- **In DC:** was invited to a small, private conference with **bondholders** to discuss the **Title III / FOMB (Financial Oversight and Management Board)** situation in Puerto Rico — i.e., the island's federal bankruptcy/debt-restructuring process (PROMESA). Jay characterizes this as discovery work done on behalf of ACEPR.
+- **In New York:** traveled with Gus (TeamHouse/Gente Brava) specifically to raise money from the **Puerto Rican diaspora community in New York** for ACEPR-related work.
+- **How she prioritized/managed all of this (her own words):** "I always try to combine my trips, so I had been looking for overlapping opportunities with Devinder whenever I could. While most of my work is remote, I find the opportunities for high impact, intensive in-person work." Her general operating pattern: default to remote work, but consolidate travel around genuinely high-impact, intensive in-person opportunities, and actively look for ways to combine multiple purposes (e.g., PR policy discovery + overlap with Devinder's Columbia-era work) into a single trip rather than treating each commitment as requiring separate travel.
+
+## Summary — why this is compelling
+
+ACEPR isn't a story about someone applying to a job posting for "Puerto Rico energy policy work" — it's a story about someone standing in an airport line, seeing a regulatory footnote most people would have scrolled past, and immediately recognizing it as an inflection point worth staying for. Jay had just spent ten days doing hands-on humanitarian installation work in one of the hardest-hit towns in Puerto Rico after Hurricane Maria; she didn't need to do anything more to have delivered on the assignment. Instead, she read a news article about a new cooperative-utility regulation, made a snap judgment that Puerto Rico's specific combination of factors — a prior 100% renewable mandate, energy deregulation already underway, high cooperative literacy, competent regulators, deep solar resources, and sheer public anger — added up to a real, narrow window for structural change, and simply didn't get on the plane. That's not opportunism; it's the kind of pattern-recognition-plus-conviction that turns a volunteer trip into a multi-year institution-building career. The range of what followed is unusually broad for one venture: she was co-designing regulatory certification processes directly with the Puerto Rico Energy Bureau, sitting in on private bondholder discussions in DC about Title III/PROMESA debt restructuring — genuine federal fiscal-policy exposure, not just energy-sector work — and personally fundraising from the Puerto Rican diaspora in New York. Few people move that fluidly between hands-on field deployment, utility regulation, high-stakes federal fiscal policy, and grassroots community fundraising inside a single initiative. That range, plus the discipline to combine travel and stay mostly remote by default, is a strong signal of someone who can operate at both altitudes — the 40,000-foot policy view and the ground-level reality — without losing effectiveness at either.
+
+## ⚠️ Anonymity requirement
+
+**Do not name the specific cooperative/community projects in any product (resume, bio, website, cover letter).** Refer to them only by generic description (e.g., "a rural mountain-region hydroelectric cooperative," "a hurricane-affected low-income community's solar cooperative"). This applies to this folder's contents too — if source documents naming them are downloaded into `pdfs/` or `web-exports/`, do not quote the names out into any synthesized content.
+
+## Evaluation (2026-07-02)
+
+- **Resume/portfolio strength:** among the strongest stories in the entire portfolio — already used as a case study in master-profile.md and the cover letter, appropriately.
+- **Anthropic alignment angle:** already well-exploited (the airport decision as pattern-recognition-plus-conviction, the range from field deployment to federal fiscal policy to grassroots fundraising). No major gaps.
+- **Missed opportunity:** none significant, though the corrected co-founder list (Gus, JI, David Geeter, Oscar Ruiz) and the crypto-bro-skepticism nuance are good texture that should be preserved if this story gets expanded for interview prep — they show a more precise, discerning read of who's actually building ACEPR vs. who's just present in the scene.
+
+## Used in
+
+- [x] `content/master-profile.md` (case study #3, ACEPR half)
+- [x] `content/experience-database.md`
+- [x] `products/resume/sections/experience.tex`
+- [x] `products/applications/anthropic/cover-letter.md`

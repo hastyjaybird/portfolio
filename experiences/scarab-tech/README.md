@@ -1,0 +1,66 @@
+# Scarab Tech
+
+| Field | Value |
+|---|---|
+| Organization | Scarab Tech (Johannesburg, South Africa) |
+| Role/title | Advisor / hands-on technical + business lead (via Corvidae, LLC) — thermodynamics, design, business development, GTM, JV contract negotiation, customer support, engineering team building |
+| Dates | Feb 2019–ongoing per Wix; **confirmed by Jay (2026-07-01) as a genuinely multi-year relationship, with a fresh consulting day as recently as May 2026** |
+| Location | Johannesburg, South Africa — with annual ~1-month trips to South Africa nearly every year (skipped only during COVID) |
+| One-line summary | The single deepest, most durable Corvidae client relationship — full-spectrum technical and business leadership on a waste-plastic-to-fuel venture, evolving into a genuine multi-year personal and professional relationship with founder Jeff Barbee. **Terminology note (Jay's own guidance, 2026-07-01): call this "waste-to-fuels," not "plastic-to-oil" — people have a real aversion to the latter framing.** |
+
+## Why this is its own folder
+
+Split out from `../corvidae/README.md` on 2026-07-01 per Jay's request — every real Corvidae client gets its own experience folder; `corvidae/README.md` keeps the umbrella story and cross-references each client folder.
+
+## Key facts (verified)
+
+- Per Wix: "Founder advising on go-to-market strategy, MVP, technical development, engineering strategy for waste plastics to fuel and power." Partners: The Dung Beetle Project, Alliance Earth.
+- **Confirmed as a genuine paying client via PayPal business records** — contact Simon Davis (co-founder/COO), invoiced payments of ~$1,000–3,000 each, Feb–Mar 2020.
+- Independently confirmed online: founded 2018 by CEO Jeffrey Barbee and COO Simon Davis; reactor tech invented by Pierre Pretorius; moved to new Johannesburg premises; named African regional winner, ESG Tech category, Global Startup Awards Africa; raised a seed round from the GIIG Africa Fund (Dec 2022) — well after Jay's advisory engagement, evidence the company kept growing.
+- Company name "Scarab Tech" and its "Dung Beetle Project" partner both reference the dung beetle — the insect that rolls/processes waste, a fitting metaphor for a waste-plastic-to-fuel technology.
+- Sources: [scarabtech.com](https://scarabtech.com/), [Ventureburn](https://ventureburn.com/2022/12/scarabtech-secures-seed-raise-from-giig-africa-fund/), [Dung Beetle Project/Alliance Earth](http://allianceearth.org/dung-beetle-project/).
+- **Alliance Earth relationship clarified (Jay, 2026-07-01): this is not a separate partner org, it's the same person.** Jeff Barbee — Jay's main contact at Scarab Tech — is also the founder of **Alliance Earth**, an environmental journalism nonprofit, and Jay worked with both organizations since Jeff was the driving force behind each.
+- **Company breakup and continued relationship (Jay, 2026-07-01):** Scarab Tech eventually had a falling-out among its founders. Jay stayed close specifically with Jeff Barbee, and did a day of consulting with his new stealth-mode company — doing similar waste-to-fuels work — as recently as **May 2026**.
+- **Full scope of Jay's actual involvement (her own account, 2026-07-01), much broader than "advisor":** thermodynamics and system design, business development, go-to-market strategy, joint-venture contract negotiation, customer support, and building out the engineering team.
+- **Cadence of the relationship:** nearly annual ~1-month trips to South Africa (skipped only the COVID year), plus **three cross-country US road trips together**, and a return trip to South Africa as recently as **April/May 2026**.
+
+## Origin story (Jay's own account, 2026-07-01)
+
+Scarab Tech actually started as an **All Power Labs customer** — but South Africa doesn't have much biomass, the fuel feedstock APL's gasifiers were built around. What South Africa does have: waterways completely choked with plastic trash, and a specific, visceral air-quality problem — every evening around 8pm, the air quality gets dramatically worse, and it's not just traffic smog. It smells different: burning plastic. People without electricity or cooking fuel go hunt for plastic bags, tie them into knots, and burn them just to cook food — a direct indoor and outdoor air-quality hazard layered on top of the plastic-waste problem itself. There's also no real sanitation/waste-collection service in many of these areas.
+
+Scarab Tech's founding thesis followed directly from that: take the plastic pollution out of the environment, process it into a cleaner-burning fuel, and use **fuel vouchers as an incentive for plastic collection** — turning an environmental hazard into a functioning collection economy in the absence of formal sanitation infrastructure. The founders literally took an **All Power Labs gasifier** and attempted to convert it into a plastic pyrolysis machine. It didn't work especially well at first, but they got far enough to bring it to **AfrikaBurn** (South Africa's Burning Man) and process plastic bottles on-site to power their camp's generators and DJ booth, and to give attendees fuel as a diesel replacement to drive home. A mutual friend found them there and introduced them to Jay. **They were thrilled to bring her on specifically because she came from All Power Labs — she was, in effect, their own origin story, walking in the door.**
+
+- **From Burner project to real company (Jay's own account, 2026-07-01):** Scarab Tech spun directly out of that first AfrikaBurn prototype, built with the friend group Jeff and the founders had at the event. When they got funding and hired Jay, the company was actively working to separate its scrappy "Burner" identity from what needed to become a real, customer-facing business. **During Jay's time there, the company scaled up manufacturing and built a genuinely international customer base — shipping to Australia, France, and across Western and Southern Africa** — a real commercial footprint well beyond a single-market pilot.
+
+## Values/character — why South Africa specifically (Jay's own account, 2026-07-01)
+
+South Africa has the **highest Gini coefficient in the world** — meaning the most extreme wealth inequality of any country measured. Entire towns barely have reliable access to fuel, water, or electricity, while the country simultaneously holds enormous concentrated wealth. Energy access and affordability are genuinely out of reach for large parts of the population. Jay has made a point of personally visiting many of the informal settlements most affected by this — against the advice of people around her — because she believes she needs to understand the reality fully and directly before she can suggest any change with a real chance of being taken seriously.
+
+## Assets found (2026-07-01)
+
+- **Engineering Change Requests dashboard** — real product-development tracking: syngas analyzer sourcing, flash point/calorific value/viscosity testing, remote monitoring/SMS controls, safety compliance (rupture discs, ATEX-compliant flares, warning labels), with **Jay personally assigned as owner on multiple line items** (gas analyzer sourcing, testing subsystems, warning-label graphics) — confirms hands-on technical involvement, not purely advisory.
+- **Bill of Materials** ("scarabTech BOM mk3.1") — full parts-level BOM with costs in South African Rand, named suppliers (Nash Motorsport, MMTS, Swift Heat), and Jay again personally assigned to specific parts (gas inlet valve, balance of materials, foil tape/consumables) — real procurement-level engineering work.
+- **Named real customers surfaced:** "Plastic Odyssey" and "Plastic Pirates" appear as actual named recipients of Scarab Tech reactor units (BM-0001, BM-0002 releases) — evidence the reactors were shipping to real customers, not just prototypes.
+- **Timeline note:** these documents show activity through 2021 (release targets Aug/Oct 2021) with the BOM file last modified May 2023 — later than the "Feb 2019–ongoing (per Wix)" dates currently on file. Doesn't necessarily mean Jay's own involvement extended that whole time (the file could have been maintained by others after her engagement), but worth flagging that the engagement's actual duration may be longer than currently documented.
+
+## Summary — why this is compelling
+
+Most Corvidae engagements were bounded, professional, and finite; Scarab Tech is the one that became something closer to a real institution-building partnership. It's a genuinely rare origin story: a customer of Jay's previous company (APL) improvised one of APL's own gasifiers into a plastic pyrolysis machine, proved it well enough to run a Burning-Man-style festival camp on bottled plastic waste, and then hired Jay specifically because she carried the pedigree of the technology they'd repurposed — she was, by her own description, "their origin story" walking in the door. From there, the relationship expanded into essentially the full stack of what it takes to build a hard-tech company: thermodynamics and reactor design, business development, go-to-market strategy, joint-venture negotiation, customer support, and hiring out the engineering team — sustained across nearly annual month-long trips to South Africa and three cross-country US road trips together, for years, well past the neat boundaries of a typical consulting engagement. And underneath the technical story is a real, considered values position: South Africa's extreme wealth inequality (the highest Gini coefficient in the world) means whole communities lack reliable water, electricity, or fuel, and Jay made a deliberate choice to visit the informal settlements most affected by this firsthand, against advice, because she doesn't think you can propose credible solutions to a problem you haven't seen up close. When the company eventually broke apart among its founders, she didn't just move on cleanly — she stayed loyal to Jeff Barbee specifically, and was still actively consulting with him on the same mission, in a new company, as recently as this year.
+
+## Used in
+
+- [ ] `content/master-profile.md` — not yet broken out as its own line item, currently folded into Corvidae's "15+ clients" summary
+- [x] `content/experience-database.md` — added 2026-07-02 as its own sub-entry under Corvidae
+
+## Evaluation (2026-07-02)
+
+- **Resume/portfolio strength:** very strong — the deepest, most durable Corvidae relationship, with full-stack technical + business ownership sustained over years, real product-development artifacts (ECRs, BOMs), and shipped units to named international customers. Among the strongest single stories in the whole portfolio.
+- **Anthropic alignment angle:** the deliberate, against-advice choice to visit informal settlements before proposing solutions is a strong, concrete values example for any question about understanding real-world context before designing interventions — should be preserved and surfaced prominently in interview prep and cover-letter material, not left buried in this README.
+
+## Still needed
+
+- Confirm whether the 2022 seed raise happened with any continued advisory involvement from Jay, or entirely after her engagement ended
+- Name of Jeff Barbee's new stealth-mode company (as of May 2026 consulting) — not yet disclosed/named
+- Photos from AfrikaBurn plastic-pyrolysis demo, or from any of Jay's South Africa trips/informal-settlement visits, if any survive
+- Confirm exact dates of the "3 cross-country US road trips" with the Scarab Tech team
+- Confirm exact end date of Jay's personal involvement, given documents show project activity into 2021 (and file modifications into 2023)

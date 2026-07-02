@@ -1,0 +1,94 @@
+% Option B: Impact-first executive layout (interviewer scan-friendly)
+% Compile: make executive
+
+\documentclass[10pt,letterpaper]{article}
+\usepackage[margin=0.55in]{geometry}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{hyperref}
+\usepackage{tabularx}
+\usepackage{array}
+
+\hypersetup{colorlinks=true, urlcolor=black, linkcolor=black}
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+
+\newcolumntype{L}{>{\raggedright\arraybackslash}X}
+
+\titleformat{\section}{\large\bfseries}{}{0pt}{}[\titlerule]
+\titlespacing*{\section}{0pt}{9pt}{5pt}
+
+\begin{document}
+
+% Header block — what an interviewer reads in 5 seconds
+\noindent
+\begin{tabularx}{\textwidth}{@{}L r@{}}
+  {\LARGE\bfseries Dr. Julia Hasty} &
+  \begin{tabular}[t]{@{}r@{}}
+    \href{mailto:jay@resilientmarkets.com}{jay@resilientmarkets.com}\\
+    540.798.2312 \textbullet{} Albany, CA\\
+    \href{https://www.linkedin.com/in/dr-jay/}{linkedin.com/in/dr-jay}
+  \end{tabular}
+\end{tabularx}
+
+\vspace{6pt}
+\noindent\textbf{Research scientist \& engineering leader} with a PhD, peer-reviewed publications, FDA-regulated bio lab experience, and a track record deploying complex energy and water systems in \textbf{35+ countries}. Winner of the \textbf{2018 Water Abundance XPrize}. Seeking roles where scientific rigor and responsible technology deployment matter.
+
+\vspace{4pt}
+\noindent\textbf{Impact:} 900+ gasification deployments \textbullet{} 2 patents \textbullet{} NSF PI \textbullet{} USAID project (250 homes) \textbullet{} 2024 Eklutna Energy Plan \textbullet{} Puerto Rico energy policy
+
+\section{Experience}
+
+\noindent\textbf{Resilient Markets} \hfill Albany, CA \textbar{} 2020 -- Present\\
+\textit{Managing Partner}
+\begin{itemize}[nosep, leftmargin=1.2em, topsep=2pt]
+  \item Technical assessments of integrated biomass, solar, and battery microgrids for critical services, agriculture, and water
+  \item Policy and regulatory research with MaxETA for the Puerto Rico Energy Bureau
+\end{itemize}
+
+\noindent\textbf{10Power} \hfill San Francisco, CA \textbar{} 2020 -- Present\\
+\textit{Technical Lead}
+\begin{itemize}[nosep, leftmargin=1.2em, topsep=2pt]
+  \item Published the \textbf{2024 Energy Plan} for the Alaska Native Village of Eklutna
+  \item Grant writing and microgrid development for Native American tribal communities
+\end{itemize}
+
+\noindent\textbf{Corvidae, LLC} \hfill Oakland, CA \textbar{} 2017 -- 2020\\
+\textit{Founder}
+\begin{itemize}[nosep, leftmargin=1.2em, topsep=2pt]
+  \item Served 15+ early-stage clean-tech companies; led 25-building Puerto Rico microgrid program; co-founded ACEPR cooperatives accelerator
+\end{itemize}
+
+\noindent\textbf{SkySource} \hfill Berkeley, CA \textbar{} 2018\\
+\textit{Systems Engineer}
+\begin{itemize}[nosep, leftmargin=1.2em, topsep=2pt]
+  \item \textbf{Winner, 2018 Water Abundance XPrize} --- biomass-powered atmospheric water generator, 2,000 L/day at $\sim$2\textcent/L
+\end{itemize}
+
+\noindent\textbf{ALL Power Labs} \hfill Berkeley, CA \textbar{} 2009 -- 2017\\
+\textit{Engineering Director}
+\begin{itemize}[nosep, leftmargin=1.2em, topsep=2pt]
+  \item Directed 15 engineers; scaled 150 kW gasification and biochar products to 900+ deployments in 35+ countries
+  \item NSF Principal Investigator (feedstock-flexible gasifier); USAID project lead during Ebola outbreak in Liberia
+\end{itemize}
+
+\noindent\textbf{Additional experience:} CPWater Tech (novel water purification, NYS \& NSF awards) \textbullet{} Box Power (mobile solar microgrid deployment) \textbullet{} NanoSulf \textbullet{} Portland Biodiesel (lead chemist, 1M gal/yr) \textbullet{} American Red Cross NAT Lab (FDA-regulated nucleic acid testing) \textbullet{} Stony Brook PhD research \& adjunct professor
+
+\section{Education \& credentials}
+
+\textbf{Ph.D., Materials Science \& Engineering} (Chemical Engineering focus) --- Stony Brook University\\
+\textbf{B.S., Chemistry} --- Radford University
+
+\section{Publications, patents \& awards}
+
+Patents US 8,829,695 \& US 9,476,352 (compact gasifier-genset architecture).\\
+Publications in \textit{Fuel} (2016) and \textit{Journal of Renewable and Sustainable Energy} (2015).\\
+Awards: Water Abundance XPrize (2018); NSF and NYS innovation awards; PowerBridge NY accelerator.
+
+\section{Technical skills}
+
+\textbf{Laboratory:} NMR, FTIR, UV-VIS, HPLC, PCR, GC-MS, SEM, TEM, EDS\\
+\textbf{Engineering:} Gasification (10--150 kW), microgrids, water purification, automation controls\\
+\textbf{Software:} Python, \LaTeX, Solidworks, ChemCAD, Fusion360
+
+\end{document}
