@@ -11,8 +11,8 @@ Source data for an interactive map feature on the portfolio site: hovering/click
 ### South Africa — Cape Town
 - **When:** April 2026 (confirmed via flight itinerary)
 - **Type:** **Volunteer**, with Sail Relief — per Jay (2026-06-30)
-- **Blurb:** Designed a solar microgrid for an 800-student high school in Cape Town, in response to a spike in electricity and fuel prices driven by the Iran-US conflict and the Strait of Hormuz closure. Project done with Sail Relief.
-- **Source:** New — Sail Relief work isn't yet its own experience folder; cross-reference `experiences/resilient-markets-maxeta/` (Sail Relief correspondence already noted there).
+- **Blurb, corrected 2026-07-02:** Jay did not personally design the microgrid for this 800-student high school (near Cape Town, in response to a spike in electricity and fuel prices driven by the Iran-US conflict and the Strait of Hormuz closure). She connected Oscar Ruiz (Sail Relief) and Jeff Barbee (Scarab Tech), whose recommended local installer designed the system; Jay's own role was interviewing the installer, visiting the school, getting the story from the principal, and vetting the partners/project for Sail Relief.
+- **Source:** `experiences/volunteer-work/README.md` (full detail); cross-reference `experiences/resilient-markets-maxeta/` (Sail Relief correspondence already noted there).
 - **Confidence:** High (per Jay)
 
 ### South Africa — Johannesburg

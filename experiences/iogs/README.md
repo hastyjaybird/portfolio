@@ -20,6 +20,17 @@
 - **Outcome (confirmed by Jay 2026-06-30):** reached full design and engineering — "shovel ready" — but not construction. Partners were still finalizing the QOZ/financing structure details when Jay left the project.
 - **Why Jay left when she did (found 2026-07-01, full story in `../genmoji/README.md`):** not a planned handoff — COVID-19 forced her out of Puerto Rico entirely. She was in South Africa visiting Scarab Tech in May 2020 when global flights shut down; a State Department repatriation flight got her to JFK, but PR's strict COVID entry rules meant she couldn't return to her San Juan apartment, so she relocated to Oakland, CA instead. This is the actual mechanism behind the 2019–2020 end date here (and for ACEPR/Corvidae generally), not a deliberate project wind-down.
 - Jay's own Wix site had previously listed this same project anonymously — as "Anonymous Real Estate Landholder" (Technical Advisor/Innovations Team/Project Manager, Apr 2019–current, Caribbean) — but per Jay (2026-06-30), that anonymity no longer applies; the Guardiola Real Estate name can be used going forward.
+- **Day-to-day project management confirmed via Gmail (2026-07-02):** extensive real coordination across multiple named sites (Sabana Gardens, Sabana Abajo, Comandante, Metropolitan, Lynden, DHL) — structural engineer roof-access negotiations (Luis Cid), architect/engineering coordination (Gabriel Rivera/Verdifica), PREPA electrical-feeder/interconnection troubleshooting, weekly stakeholder status updates to the full project team (Matt Wiggins/Remedy Ventures, Evan Turner, Carlos Guardiola, Alejandro Uriarte), and site prioritization decisions (e.g., deprioritizing lower-readiness sites in favor of ones with simpler roof types and immediate cash-flow potential). This is granular, hands-on multi-site project management, not high-level strategy alone.
+
+## Summary — why this is compelling
+
+IOGS is a genuinely large-scale, hands-on project-management credential: Jay was simultaneously running structural/architectural coordination across a dozen-plus named industrial sites, negotiating utility interconnection issues directly with PREPA, and personally building the financial model — including a real Qualified Opportunity Zone tax structure — for a portfolio covering nearly three-quarters of all industrial real estate on the island. It reached full "shovel ready" design and engineering, a genuine execution outcome even though construction itself never started; and the reason it stopped wasn't a failure of the plan, but an involuntary, COVID-driven exit from Puerto Rico that also ended her Corvidae/ACEPR-era presence on the island. It's a strong example of Jay operating as a real multi-stakeholder PM at significant scale — coordinating engineers, financiers, and a major real estate portfolio owner simultaneously — not just as a strategic advisor.
+
+## Evaluation (2026-07-02)
+
+- **Resume/portfolio strength:** very strong — real, checkable evidence (email trail spanning dozens of named sites and stakeholders) of large-scale, hands-on multi-site project management, not just a strategy title. Already correctly used as case study #3.
+- **Anthropic alignment angle:** already reasonably well-represented via the case study; the newly-added day-to-day PM texture (utility interconnection troubleshooting, site prioritization tradeoffs) is good supporting detail if more operational depth is needed in interview prep.
+- **Missed opportunity:** none significant.
 
 ## Used in
 

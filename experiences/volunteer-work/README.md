@@ -21,33 +21,82 @@ Several trips and engagements turned out to be volunteer, not paid professional 
 - **Notable: "La Finca de Hamberto, Community Through Colors, and Sail Relief Team form a collaborative network"** (per independent source) — directly connecting this to the Sail Relief work below; this is a sustained volunteer network, not disconnected one-off trips.
 - Sources: [lafincadehamberto.com](https://lafincadehamberto.com/), [Civil Eats — Finca Conciencia / Vieques food sovereignty context](https://civileats.com/2019/05/15/finca-conciencia-is-building-food-sovereignty-on-vieques-island/).
 
-### Sail Relief — Cape Town, South Africa
+#### `[INTERVIEW-DEPTH STORY]` — Oscar Ruiz and the full arc of the relationship (Jay's own account, 2026-07-02)
+
+Oscar Ruiz was **the first local Jay met on the island**, connected through mutual friends from California. His own post-Maria story: he sailed a sailboat loaded with solar panels and batteries from DC to Fajardo to check on his parents, then immediately began doing solar installations and disaster-recovery work across the island. During Jay's first week in Puerto Rico, Oscar personally drove her around and showed her the island — orienting her enough that, by her own account, **he is the direct reason she had the context to recognize the significance of the PREB regulation news article that led her to stay and found ACEPR** (see `../acepr/README.md`). Oscar himself went on to become one of ACEPR's true co-founders, and much of ACEPR's early strategy work happened at his farm.
+
+**Why Vieques was hit so hard:** the island (population ~11,000) lost all 5 of its farms, its only hospital, and roughly half of its cargo/ferry capacity in Hurricane Maria. It suffered a disproportionately high death toll from the extended power outage, caused by damage at the termination point of Vieques' undersea power cable — an unusually long, severe outage even by Puerto Rico's post-Maria standards. Oscar founded his nonprofit farm directly in response to this devastation.
+
+**What Jay actually did there:** planting and general farm work (done in exchange for her stay), ACEPR strategy meetings held on-site, and close, hands-on collaboration with the **Vieques microgrid cooperative** — working with that specific cooperative (alongside the nonprofit **Vieques Love**) more closely than with any other ACEPR cohort project.
+
+**A storm story, in her own telling:** Jay stayed at the farm through a Category 1 storm — the rain was severe enough to cause flooding inside the house, and she and others worked through the night with no power to keep the house from flooding.
+
+**The farm's broader model:** Oscar built a genuine regenerative circular economy — running a daily composting pickup circuit from local restaurants to feed the farm's animals, and hosting international volunteers via WWOOF and eco-village travel platforms, giving many people their first exposure to Puerto Rico and to sustainable living.
+
+**A reciprocal relationship, not one-directional charity:** Oscar's nonprofit, Community Through Colors, runs both Sail Relief (solar) and La Finca de Hamberto. He later sent a DC solar trailer to Bay Area MakerFarm — **independently confirmed 2026-07-03 via MakerFarm's own internal fridge-upgrade proposal, which cites "a DC-DC trailer (solar/batteries) that was graciously donated through Oscar Ruiz, Community through Colors, and his collaboration with the Footprint Project" as the farm's actual power supply — see `../bay-area-makerfarm/README.md`.** He also personally volunteered in California during wildfire response, and sent Jay to Cape Town for the Sail Relief school solar-microgrid project documented below. Jay's own summary: **"he is absolutely integral to my success and effectiveness in Puerto Rico."**
+
+### Sail Relief — school near Cape Town, South Africa
 - **When:** April 2026 (confirmed via flight itinerary).
-- **Blurb:** Designed a solar microgrid for an 800-student high school in Cape Town, in response to a spike in electricity and fuel prices driven by the Iran-US conflict and Strait of Hormuz closure.
+- **Blurb, corrected by Jay (2026-07-02):** Jay did **not** personally design the microgrid for this 800-student high school (located in a town she calls "Calvania," outside Cape Town — exact spelling/name unconfirmed, mapped generally as "Cape Town" for portfolio purposes). Her actual role: she **connected Oscar Ruiz and Jeff Barbee (Scarab Tech) together**, and Jeff recommended the local solar installer who ultimately designed the system. Jay's own on-the-ground role was to **interview the installer, visit the school, get the story from the principal, and vet the partners and the project on behalf of Sail Relief** — a due-diligence/vetting trip, not an engineering-design trip.
+- **Notable: this is a real cross-pollination between two separate threads of Jay's network** — her Puerto Rico relationship (Oscar Ruiz/Sail Relief) and her South Africa relationship (Jeff Barbee/Scarab Tech, see `../scarab-tech/README.md`) — that she personally brokered together.
 - Cross-reference: `../resilient-markets-maxeta/README.md` (existing Sail Relief correspondence), `content/travel-map.md`.
 - Also see: earlier Sail Relief volunteer work on boat equipment/logistics (Baylis Weaver bracket fabrication thread, 2021) and a San Pablo Marina "fun-raiser" for Oscar's (Sail Relief's) non-profit — same Oscar Ruiz / Sail Relief network as La Finca de Hamberto above.
 
-### Fenix International — Kampala & Bidibidi, Uganda
+### Fenix International — Kampala, Uganda + an unnamed refugee settlement
 - **When:** ~late June–July 2017, ~1 month.
-- **Blurb:** Assisted Sara Norris at Fenix International (solar-battery, SIM-card-enabled microfinance) — root-cause analysis of returned systems and field activations studying adoption in remote villages, based in Kampala. Also traveled with Mike Zuckerman to the Bidibidi Refugee Settlement to understand water/power challenges facing camp residents.
+- **Blurb:** Assisted **Sara Norris** (already a close personal friend by this point, confirmed by Jay 2026-07-03 — not a relationship formed through this trip) at Fenix International (solar-battery, SIM-card-enabled microfinance) — root-cause analysis of returned systems and field activations studying adoption in remote villages, based in Kampala.
+- **Correction (Jay, 2026-07-03): the refugee settlement visit was likely not Bidibidi.** Jay traveled with Mike Zuckerman to a different settlement whose name she doesn't recall — the "Bidibidi" identification in earlier notes was not confirmed and should be treated as unverified/likely wrong.
+
+#### `[INTERVIEW-DEPTH STORY]` — what the refugee settlement visit taught her about project design (Jay's own account, 2026-07-03)
+
+Jay's core takeaway: there is very little to work with in a setting like this — financially, in physical resources, and in people. Her general approach when working in an unfamiliar region is to find at least one local person who already knows how to fix engines, or knows electrical work, and hire them — both for the practical skill and because they help bridge the cultural gap and make her more effective as an outsider. The refugee settlement made her realize just how **dead simple and minimal** a project has to be to succeed there: any added complexity creates a real risk of failure, and any amount of scale or a too-powerful outside move can trigger serious backlash from adversaries and destabilize the local political or social fabric. At the same time, she's clear that the need is real and the opportunity for impact is large — **it just has to be done right.** She specifically remembers encountering a "graveyard" of failed "good idea" projects there, and considers understanding what worked versus what didn't as invaluable, hard-won knowledge from that trip.
+
 - Cross-reference: `content/travel-map.md`.
 
 ### Terraqua Barranca — Peru
-- **When:** ~December 2015.
-- **Blurb:** Worked with Sara Norris on Terraqua Barranca, a duckweed-based wastewater treatment facility on Peru's coast, diverting wastewater from ocean discharge for recycling and animal feed.
+- **When:** ~December 2015, a couple of weeks, as a volunteer working under Sara Norris.
+- **Blurb:** Worked on Terraqua Barranca, a real duckweed-based wastewater treatment facility diverting one of the city of Barranca's main sewage pipes away from ocean discharge and into recycled water and duckweed crop.
+- **Independently confirmed (2026-07-03):** Terraqua Barranca (led by Paul Skillicorn/Agriquatics) treated wastewater from Barranca and neighboring Santa Catalina, Peru, using duckweed bioreactors, sand filtration, and **ozone disinfection** — matching Jay's own recollection of the chemistry exactly. The finished facility was developed into a public park, "Parque Ecológico." Source: [Terraqua Barranca report](https://slideshare.net/PaulSkillicorn/terraqua-barranca-report-powerpoint).
+- **Jay's own account (2026-07-03):** she looked at the underlying chemistry, specifically the ozone purification step, and helped build some of the physical structures with a group as part of the commissioning team that got parts of the system up and running. The town's mayor visited the site and met with the team, and was genuinely excited about the project's potential to divert the city's main sewage pipe away from ocean discharge and into useful products (recycled water and duckweed crop).
 - Cross-reference: `content/travel-map.md`.
 
 ### Earthwatch Expedition — "Trailing Penguins in Patagonia," Argentina
-- **When:** October 14–20, 2023.
-- **Blurb:** Field research expedition studying penguins as indicator species for ocean health and fish-stock mapping, done with family.
+- **When:** October 14–20, 2023, with her mother and brother.
+- **Blurb:** Field research expedition studying Magellanic penguins as an indicator species for ocean health and regional fish-stock mapping.
+- **Independently confirmed (2026-07-03):** Earthwatch's "Trailing Penguins in Patagonia" expedition is led by **PI Dr. Gabriela Blanco**. Sources: [Earthwatch expedition page](https://earthwatch.org/expeditions/trailing-penguins-patagonia), [Trailing Penguins in Patagonia field report](https://earthwatch.org/sites/default/files/2020-05/earthwatch-field-report-trailing-penguins-patagonia-2018-19.pdf).
+- **Why her family specifically does this kind of trip (Jay's own account, 2026-07-03):** her family doesn't travel for leisure so much as to immerse themselves in an intense, purposeful local activity, usually tied to conservation and animals — a household culture rooted in her mother (a biologist), her brother (also in clean tech), and her father (a programmer/civil engineer who is "a conservationalist at heart"). Patagonia had been a long-standing shared family goal.
+- **What the work actually involved, in her own account:** the team worked directly with Dr. Blanco's group under permits to access the protected penguin nesting colony. Fieldwork included sexing penguins, scanning RFID tags, taking field/observational data, checking for eggs, identifying predation signs and predator sightings, and monitoring bird health. Lab work included data entry/analysis involving GPS tracking, ocean-depth monitors, and population trend data, cross-referenced against a **multinational database** covering penguin colonies up and down Central and South America.
+- **The science, and why it matters for policy (Jay's own account, independently consistent with the broader literature — 2026-07-03):** tracking the GPS paths and dive depths of foraging male and female penguins reveals the location and depth of specific regional fish populations, since fish availability is extrapolated from how successfully parent penguins can find food and feed their chicks — measured daily via chick weight and foot-size growth (a proxy for caloric intake and foraging success). Comparing this data across colonies reveals warming-water and overfishing impacts on fish health, location, and population. Independent research confirms this exact dynamic is real and policy-relevant: Magellanic penguins compete directly with regional commercial fisheries (Argentine anchovy, Fuegian sprat) for the same prey, and studying their foraging distribution has been specifically recommended as a way to generate data useful for cross-border fishing/conservation policy in the region.
+- **Traveler group corrected (Jay, 2026-07-03):** Arden did not end up going; "M" in trip-planning docs is Jay's mother, **Melinda**. Final travel group was Jay, Melinda (mom), and Ryan (brother).
 - Cross-reference: `content/travel-map.md`.
+
+## Photo search (2026-07-03)
+
+No Google Photos tool is available in this environment, so photos couldn't be searched directly. A Google Drive search across each trip's specific date range turned up no personal trip photos for Fenix/Uganda (2017), Earthwatch Patagonia (2023), or Sail Relief/Cape Town (2026) — only unrelated documents/screenshots that happened to fall in those windows. One ambiguous possible match: a personal camera photo (`20151225_201928.jpg`) timestamped right in the Terraqua Barranca window (Dec 2015), alongside genuine project technical diagrams from the same days — but not confirmed as an actual Peru-trip photo rather than a holiday photo taken at home. **Personal trip photos for all five entries most likely exist only in Google Photos or on Jay's phone — logged in `docs/missing-resources.md`.**
 
 ## Used in
 
 - [ ] `content/master-profile.md` — not yet added as a "Volunteer" section; consider adding one
-- [ ] `content/experience-database.md`
+- [x] `content/experience-database.md` — added 2026-07-03
 - [x] `content/travel-map.md` (individual entries already marked "Volunteer")
+
+## Values/character — the through-line across all five (Jay's own account, 2026-07-03)
+
+Jay is explicit that the five don't reduce to one single theme — each stands out in its own way — but there is a real, consistent filter behind why she chooses to travel at all: **she doesn't like traveling as a tourist.** She only wants to travel when she's doing something that matters, going deep enough into the local culture to actually understand it — what the local conservation, social, or environmental movement looks like; how people relate to transitions in energy, agriculture, and water access and affordability; what climate change is actually doing to the area and how that's reshaping the local demographic; what threats people themselves perceive; and how all of that is shifting the regulatory or political landscape — whether it's opening the door for clean-market expansion or actively holding it back. That's a consistent, almost analytical travel philosophy underneath five very different trips: she isn't collecting experiences, she's collecting ground-truth understanding of how climate, energy, and community intersect in a given place — the same "40k and 0ft" instinct she names explicitly elsewhere (see `../cpwater-tech/README.md`), just applied to how she chooses where to spend her personal time, not just her paid work.
+
+**A sharper, more specific version of this, in her own words (2026-07-03):** she describes being genuinely, constantly curious about the **adoption psychology and behavior of different cultures toward applied technology** in conservation, water, energy, and agriculture — and admits that she's effectively **running informal "customer interviews" everywhere she goes, disguised as simple curiosity about what's going on in people's lives** in these areas. This reframes the whole volunteer-work pattern: it isn't just values-driven travel, it's the same professional customer-discovery instinct she names explicitly in her paid work (see `../cpwater-tech/README.md`) operating as a constant, even off-the-clock habit of mind.
+
+## Summary — why this is compelling
+
+Taken together, these five volunteer engagements show that Jay's "40,000 feet and 0 feet" operating philosophy isn't limited to her paid consulting work — it's how she chooses to spend her own unpaid time and vacation days too. Whether it's a storm-flooded farm in Vieques, a school microgrid outside Cape Town, a refugee settlement in Uganda, a sewage-diversion project in coastal Peru, or a protected penguin colony in Patagonia, the pattern is the same: she goes somewhere specifically to understand how climate change, energy access, and local politics are colliding on the ground, not to see the sights. And several of these trips aren't isolated — Oscar Ruiz's network alone connects Vieques, Sail Relief, Cape Town, and (via a solar trailer donation) Bay Area MakerFarm into one continuous web of relationships and reciprocal favors spanning years and two continents. That's a genuinely rare pattern for a resume: volunteer work that reads less like a list of good deeds and more like a second, unpaid research program running in parallel with her paid career.
+
+## Evaluation (2026-07-03)
+
+- **Resume/portfolio strength:** high as color/values material, low as literal resume line items — these are best used as interview-prep and long-form-bio material (the Oscar Ruiz arc and the Bidibidi-adjacent "dead simple projects" lesson are particularly strong), not as bullet points competing with paid roles.
+- **Anthropic alignment angle:** the explicit "how do you choose to travel" philosophy is an unusually clean, quotable statement of ground-truth-over-tourism values — directly reinforces the same instinct already established via CPWaterTech's "40k and 0ft" mantra, this time showing it extends to her personal life, not just her work. Worth pairing the two in any values-focused interview prep material.
+- **Missed opportunity:** none significant now that all five entries have real detail; the main open item is Jay's own decision on whether any of this belongs in the resume/master-profile at all, or stays purely as interview-prep depth.
 
 ## Still needed
 
 - Confirm whether Jay wants a dedicated "Volunteer" section added to `master-profile.md` / resume, or whether this stays as portfolio-only color (interview stories, values narrative) rather than a resume line item.
+- Personal trip photos for all 5 entries (see "Photo search" section above) — needs a manual pull from Jay's Google Photos/phone.

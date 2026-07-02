@@ -70,12 +70,14 @@ This list replaces the earlier "16 folders only" version — it turned out sever
 - [x] `boxpower` (Feb 2018–Jan 2019) — **FULL 1–5 LOOP DONE 2026-07-02** (company scale independently re-verified, evaluation added, experience-database.md entry refreshed with Humacao/ACEPR-origin and Launch Alaska detail found earlier this session)
 - [x] `cpwater-tech` (2018–2021) — **FULL 1–5 LOOP DONE 2026-07-02** (research/character/summary already thorough from earlier in session; evaluation added to close the loop)
 - [x] `acepr` (Jul 2018–present) — **FULL 1–5 LOOP DONE 2026-07-02** (extensive research/origin-story/travel-policy detail already done earlier this session; evaluation added; experience-database.md refreshed with co-founder correction and origin story)
-- [ ] `skysource-xprize` (2018, ~Sept)
-- [ ] `iogs` (2019–2020)
-- [ ] `volunteer-work` (ongoing, ~2018–present) — consolidated volunteer engagements (La Finca de Hamberto/Oscar Ruiz, Sail Relief, Terraqua Barranca Peru, Fenix International Uganda, Earthwatch Patagonia) — all confirmed volunteer/unpaid, distinct from paid client work
-- [ ] `bay-area-makerfarm` (2020–present)
-- [ ] `resilient-markets-maxeta` (2020–present) — **note:** do sub-clients (section C below) as part of this pass
-- [ ] `eklutna-10power` (2020–present)
+- [x] `parallel-18` (~2018–at least Oct 2024) — **NEW, FULL 1–5 LOOP DONE 2026-07-02** — split out of `acepr` per Jay's request; real 6-year judge/mentor relationship confirmed via Gmail across 7+ pre18/P18 generations; logged into experience-database.md
+- [x] `skysource-xprize` (2018, ~Sept) — **FULL 1–5 LOOP DONE 2026-07-02** (research/interview-depth stories already thorough from earlier in session; evaluation added to close the loop)
+- [x] `iogs` (2019–2020) — **FULL 1–5 LOOP DONE 2026-07-02** (added day-to-day multi-site PM detail from Gmail, Summary + Evaluation sections)
+- [x] `volunteer-work` (ongoing, ~2015–present) — **FULL 1–5 LOOP DONE 2026-07-03** (all 5 entries individually researched/interviewed — Oscar Ruiz/La Finca full arc, Sail Relief correction, Fenix/Uganda "dead simple projects" lesson, Terraqua Barranca independently confirmed, Earthwatch Patagonia PI/policy angle confirmed; through-line values statement captured; logged into experience-database.md)
+- [x] `bay-area-makerfarm` (Dec 2020–present) — **FULL 1–5 LOOP DONE 2026-07-03** (real 60-day emergency-relocation origin story, governance history, StopWaste/compost grant, Oscar Ruiz solar-trailer connection independently confirmed; "do not use Board of Directors" resume constraint documented; logged into experience-database.md)
+- [x] `resilient-markets-maxeta` (2020–present) — **FULL 1–5 LOOP DONE 2026-07-03** — restructured into umbrella (Resilient Markets, LLC) per Jay's clarification (real 4-partner co-founded LLC, absorbed Corvidae, weighted revenue-split structure); MaxETA split into its own folder; Section C sub-clients (New Power Industry, Sol Solutions, Land Art Generator Initiative) also split out and researched — see Section C below, now complete
+- [x] `eklutna-10power` (2020–present) — **FULL 1–5 LOOP DONE 2026-07-03** (Haiti/Eklutna disentangled — Haiti is Sandra's own flagship, not Jay's; grant figures independently confirmed via the actual TSAF application; work confirmed ongoing through Nov 2025; BoxPower-in-2025 correctly attributed to Sandra's side, not Jay's; logged into experience-database.md)
+- [x] `10power` — **NEW, FULL 1–5 LOOP DONE 2026-07-03** — split out per Jay's clarification: 10Power is a direct-pay relationship with Sandra Kwak's own company, NOT a Resilient Markets client (RM would otherwise take an unnecessary 15% cut); real pre-RM personal-friendship history and direct project work found (2018 PR coop HubSpot work, Matt Wiggins/Remedy Ventures intro, EDF collaboration); logged into experience-database.md
 - [ ] `climatedeck` (2025–present)
 - [ ] `phd-stony-brook` (2010–2015, incl. Columbia CPaSS 2013) — **deliberately moved out of chronological order to the end, per Jay 2026-07-01 (same reasoning as APL below).** Already has a large amount of material gathered (lab photos, publication covers, conference logos, EcoPartnership/Brookhaven detail) — treat as its own dedicated session.
 - [ ] `all-power-labs` (2009–2017) — **deliberately moved out of chronological order to LAST, per Jay 2026-07-01: "save APL for later, there is too much there for tonight... come back to it last."** Already has a very large amount of material gathered (patents, grant details, ~30 images, videos, press) — treat this as a deep, dedicated session on its own rather than folding it into the normal per-experience pass sequence. Do not do this one until every other item above is done.
@@ -95,11 +97,11 @@ This list replaces the earlier "16 folders only" version — it turned out sever
 
 **CORVIDAE CLIENT SWEEP (Section B) COMPLETE as of 2026-07-02 — all 9 client folders have been through the full 1–5 loop (research, character questions where applicable, evaluation, and experience-database.md logging).** Also corrected during this sweep: Max Energy Lab was recharacterized as an unpaid/informal relationship, not a paid Corvidae client. Next up in Section A: `boxpower`.
 
-**C. Resilient Markets client sub-items (review alongside `resilient-markets-maxeta`)**
-- [ ] New Power Industry (Eli Whipple)
-- [ ] SolSolutions
-- [ ] Land Art Generator Initiative
-- [ ] Sail Relief — relationship type still unconfirmed
+**C. Resilient Markets client sub-items — DONE 2026-07-03, each split into its own experience folder**
+- [x] `new-power-industry` (Eli Whipple) — full research done, logged into experience-database.md
+- [x] `sol-solutions` — full research done (bad-debt ending, company since defunct), logged into experience-database.md
+- [x] `land-art-generator-initiative` — full research done (recharacterized as likely unpaid volunteer judging, not a paid client), logged into experience-database.md
+- [ ] Sail Relief — relationship type to MaxETA/RM still unconfirmed (distinct from the volunteer Sail Relief work already documented in `experiences/volunteer-work/README.md`)
 
 **D. All Power Labs sub-items (review alongside `all-power-labs`)**
 - [ ] Aurora Network — blockchain/tokenized-energy whitepaper work
@@ -147,3 +149,13 @@ This list replaces the earlier "16 folders only" version — it turned out sever
 - This plan file itself should be updated as we go — check off each experience as it completes the full 1–5 loop, and jot any carry-over notes here (e.g., "waiting on Jay to send X photo").
 - Anonymity/sensitivity rules already established (e.g., ACEPR cohort project names withheld) must be respected while gathering and writing up material — see individual experience READMEs for specifics.
 - Don't re-litigate facts already locked in during prior sessions (APL = 1,000+ systems/Founder, XPrize = $1.5M, Box Power = Feb 2018–Jan 2019, NanoSulf = Entrepreneurial Lead, IOGS = no longer anonymous, etc.) — those are settled.
+
+---
+
+## SESSION HANDOFF — updated 2026-07-03
+
+**`volunteer-work` is now fully closed out** (all 5 entries researched/interviewed, through-line values statement captured, Summary + Evaluation done, logged into `experience-database.md`). See its full checklist entry above for detail.
+
+**Next up: `bay-area-makerfarm`**, per Section A's queue order.
+
+**Remaining Section A queue in order:** `bay-area-makerfarm` → `resilient-markets-maxeta` (+ section C sub-clients) → `eklutna-10power` → `climatedeck` → `phd-stony-brook` (deliberately last-but-one) → `all-power-labs` (deliberately absolute last) → `windward` (bottom of queue) → `qstview` (low-depth, can slot in anytime). Section B (Corvidae clients) is fully done. Sections D/F/G/H are not yet started/reached — check those checklists when the time comes.

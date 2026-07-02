@@ -2,19 +2,54 @@
 
 | Field | Value |
 |---|---|
-| Organization | Bay Area MakerFarm (501c3) |
-| Role/title | Founding Member; Facilities & Admin Committee |
-| Dates | 2020–present |
-| Location | Bay Area, CA |
-| One-line summary | Founding member of a nonprofit makerspace; serves on the Facilities & Admin Committee (not the Board of Directors). |
+| Organization | Bay Area Makerfarm Projects, Inc. (fiscally sponsored 501c3, via Common Vision) |
+| Role/title | Founding Member; Facilities Committee; also identified as "Community Lead" in a real project proposal; **first-ever rotating Board of Directors signatory (2020)** — see note below on why this title should NOT appear on the resume |
+| Dates | Dec 2020–present (still active as of July 2026) |
+| Location | 2700 Barbers Point Rd, Alameda, CA — on land owned by Alameda Point Collaborative (APC) |
+| One-line summary | **Expanded 2026-07-03:** an ongoing, hands-on nonprofit-makerspace commitment — real governance work (Facilities/Admin Committee), a written resilience-hub infrastructure proposal, and a direct connection to Jay's Puerto Rico network (the farm's solar/battery power comes from a trailer donated by Oscar Ruiz). |
 
-## Key facts (verified)
+## Key facts (verified, 2026-07-03)
 
-- Founding Member, 501c3, 2020–present.
-- Facilities & Admin Committee — **not** Board of Directors (confirmed by Jay; don't overstate the title).
-- Annual sponsor member.
+- **Independently confirmed org background:** Bay Area Makerfarm is a real 501(c)(3) (fiscally sponsored by Common Vision), founded ~2021, occupying roughly an acre of land at 2700 Barbers Point Rd, Alameda — land owned by **Alameda Point Collaborative (APC)**, the largest supportive-housing community in Alameda County, serving formerly homeless residents. The land was formerly stripped-bare Air Force property; MakerFarm's Animals and Garden programs (goats, chickens, ducks, pigs, a Native Plant & Pollinator Garden) have been actively regenerating the soil and local ecosystem since. Sources: [bayareamaker.farm](https://bayareamaker.farm/), [NorCal Resilience Network case study](https://norcalresilience.org/case-study-bay-area-maker-farm/).
+- **Jay pays real, ongoing rent as a sponsor/renter** — confirmed via Stripe/Xero invoices from 2023 through mid-2026 ($150/month in early 2023, rising to $300/month by 2024–2026) — and is bound by the same Sponsor Agreement as every other member: minimum 4 hours/month labor contribution, mandatory monthly meetings, and membership in one of four Admin Committees (Finance, Membership, Facilities, DEI).
+- **Real, current governance role confirmed:** Jay actively participates in the Facilities Committee and Admin Committee (calendar invites for "Facilities Committee Meeting" and "BAMF Admin Committee Monthly" through June 2026), and is active in the farm's Slack (176 members as of mid-2026).
+- **Real written project proposal found:** "Makerfarm / Empowered By Light – Farm Fridge Upgrade for Resilience Hub" — Jay is listed as **"Community Lead"** with her own contact info, and personally authored a detailed technical proposal to replace an aging, non-food-safe refrigerated truck (jury-rigged with a CoolBot controller) with a proper food-safe walk-in fridge — covering equipment specs, ADA-accessibility requirements, flood-risk siting, and beneficiary impact (APC formerly-homeless residents, a food-waste-diversion partner called **Foodz** that supplies pop-up soup kitchens/food trucks for homeless communities in Oakland, and the farm's own Animal and Garden programs).
+- **Direct, independently confirmed connection to Jay's Puerto Rico network:** the same fridge proposal states the farm's power supply is a **DC-DC solar/battery trailer donated by Oscar Ruiz and Community Through Colors**, in collaboration with the Footprint Project — this is the exact same donation Jay described in `../volunteer-work/README.md` (La Finca de Hamberto entry), now independently corroborated by MakerFarm's own internal documentation.
+- **The farm is under real current financial strain (as of June 2026):** internal messages show the farm "losing money every month," with the Admin Committee considering raising rents — a genuine, live organizational challenge Jay is involved in as of this pass, not a settled/steady-state commitment.
+- **Broader community context found:** a personal 2024 contact-management spreadsheet ("Flock o' Birds") shows MakerFarm sits inside Jay's much larger Bay Area maker/burner/festival social network, with several contacts explicitly tagged as connected through All Power Labs — reinforcing that MakerFarm is a continuation of the same maker-culture community that traces back to her APL years, not a separate, later-life hobby.
+
+## Jay's deeper makerspace history (her own account, 2026-07-03)
+
+MakerFarm isn't Jay's first makerspace — she's been part of this specific Bay Area subculture for a long time: **Sudo Room at Omni Commons** (8+ years), more recently **Noisebridge**, and early on **The Shipyard** — a makerspace incubator housing 11 companies with a clean-tech/sustainability/art lens, and the actual place where **All Power Labs was forged**. **Monkeyelectric** was another. Her own stated philosophy: she's a strong advocate for "3rd or even 4th spaces" — places that combine community, work, living, and event/venue space all at once. These spaces reliably share a few features: a shared machine shop, venue space for large events, room to build shipping-container-scale projects, and genuine on-site housing — made affordable specifically through density, as a direct response to the Bay Area becoming too expensive for individual makers to sustain a shop alone. Her own framing: **this is the actual spirit of Silicon Valley** — "you can invent something in your garage" — scaled from a lone garage up to a community-supported innovation hub, sometimes an entirely informal one. She considers this culture directly responsible for a meaningful share of the Bay Area's innovative startups, not just an artistic scene alongside it.
+
+## `[INTERVIEW-DEPTH STORY]` — the MakerFarm origin crisis and Jay's role in it (her own account, 2026-07-03)
+
+Bay Area MakerFarm's prior incarnation was **Tim Anderson's brainchild** — a "benevolent dictatorship" (Jay's words, said with real affection: "we all loved Tim") where Tim was the main renter and let friends build ambitious projects and live on-site, but everything ultimately ran on his terms. When the property owner sold the land to a developer, the community had **60 days to vacate**. Tim decided to move to the Delta, and made an offer: if the group could find a new plot of land, he'd sell them the entire machine shop — all materials, 15 shipping containers of equipment, plus the goats, pigs, ducks, and chickens — for cents on the dollar.
+
+**Jay personally drove the response.** She found the new one-acre plot, and personally negotiated the land deal with Alameda Point Collaborative (APC) — securing roughly a tenth of market rate per square foot by framing it as a public-benefit project. She also called and ran the community's first governance meeting to formalize a structure quickly enough to actually execute the move. She took that meeting seriously enough to **personally hire a facilitator with a PhD in governance structures** to run it. In a single meeting, the group decided on a temporary hierarchy to move fast during the emergency, with an explicit plan to restructure afterward — once fully off the old property — into an **egalitarian, anarchist collective**, modeled on the same kind of structure that makes Omni Commons work: governing committees, written guidelines and policies, and member voting, to run "MakerFarm v2.0."
+
+All of this happened in **December 2020**, in the middle of COVID, in pouring rain, moving heavy shipping containers across soft, muddy ground — by Jay's account, extremely difficult. It became the community's own "COVID project." The site is roughly one acre, mostly outdoor venue space.
+
+**What's been built since, in her own account:** the group secured real 501(c)(3) nonprofit status; survived an adversarial former APC executive director who wanted to push them off the property; hit a $65,000 emergency-fund goal; won a grant/contract with **StopWaste** to serve as a free mature-compost drop-off point for the community; sells duck and chicken eggs; runs a community garden, music festivals, and monthly potlucks; and maintains shared shop spaces (laser cutters, a ceramics studio, textiles studio, welding shop, wood shop, blacksmithing shop) plus a food-waste program feeding the pigs and goats.
+
+**Governance detail and an important resume constraint:** as a true anarchist collective, the group **rotates its Board of Directors**, whose only real function is acting as legal signers for whatever the membership votes on — not a hierarchical governing body. Jay was the community's **first-ever Board signatory**, and in that role personally wrote and passed the actual policy establishing how the rotating board would work, and set up insurance to protect board members/signers against personal liability. **Per Jay's explicit instruction: do not put "Board of Directors" on the resume or in any materials** — it would misrepresent the collective as hierarchical when the role is genuinely just a rotating legal-signatory function, which cuts against the culture the group is built on.
+
+## Summary — why this is compelling
+
+Bay Area MakerFarm turns out to be a real, active civic commitment with a genuine founding story, not a passive "founding member" credit: when the prior makerspace lost its lease with 60 days' notice in the middle of COVID, Jay personally found the replacement land, negotiated the below-market deal with the property owner, and hired a governance-structure specialist to help a loose group of friends turn into a functioning legal entity fast enough to physically move 15 shipping containers of equipment (and a menagerie of farm animals) onto a muddy new lot in the pouring rain. That's crisis leadership under real time pressure, executed for a community rather than a company. It's also a clean, independently-confirmed example of how her network compounds across chapters of her life: the solar trailer powering the farm today is the same donation from Oscar Ruiz (her closest Puerto Rico collaborator) described in the volunteer-work folder, and the whole effort sits inside a decade-plus personal history with Bay Area makerspace culture (Sudo Room, The Shipyard, Monkeyelectric) that also produced All Power Labs. And unlike some of the tidier, already-concluded chapters in this portfolio, this one is unresolved and current: as of mid-2026 the farm is genuinely struggling financially, and Jay is actively part of the group trying to solve that in real time.
+
+## Evaluation (2026-07-03)
+
+- **Resume/portfolio strength:** strong — the 60-day emergency relocation story is genuine crisis-leadership material (finding land, negotiating a below-market deal, hiring a governance specialist, executing a physical move under real deadline pressure), comparable in kind to the ACEPR/Humacao "recognized the moment and acted" pattern, just for a community rather than a company.
+- **Anthropic alignment angle:** the "3rd/4th space" philosophy and explicit belief that dense, shared maker communities are the real mechanism behind Silicon Valley-style innovation is a good, opinionated values statement — worth a short mention in interview prep as evidence of thinking about community infrastructure as an innovation lever, not just individual technical skill.
+- **Missed opportunity:** none now that the full story is captured — just need to make sure "Board of Directors" never appears in any generated material per Jay's explicit instruction.
 
 ## Used in
 
 - [x] `content/master-profile.md` (Volunteer and affiliations)
 - [x] `content/experience-database.md`
+
+## Still needed
+
+- Photos of the farm, the fridge project, or MakerFarm events — none found in this pass; likely on Jay's phone
+- Outcome of the fridge-upgrade proposal (funded? built?) and of the farm's current financial-strain discussion

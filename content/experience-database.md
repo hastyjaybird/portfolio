@@ -184,8 +184,10 @@
 - **Outcome (confirmed by Jay 2026-06-30): reached full design and engineering — "shovel ready" — but not construction. Partners were still finalizing the QOZ/financing structure details when Jay left the project.**
 - Source: Google Drive discovery 2026-06-30; Gmail (Industrialville/Remedy Ventures threads); Jay 2026-06-30
 
-### ACEPR (Asociación de Cooperativas Eléctricas de Puerto Rico) — Co-founder
+### ACEPR (La Aceleradora de Cooperativas Energéticas de Puerto Rico) — Co-founder
+- **Name corrected 2026-07-02** per the real Aug 14, 2018 founding deck — "Aceleradora" (Accelerator, not "Asociación"/Association), "Energéticas" (energy, not "Eléctricas"/electric)
 - **2018–present** (per earlier CVs, "Executive Director" title used at launch)
+- **Founding traces directly to Parallel18/PR Science Trust (found 2026-07-02):** an Aug 6, 2018 introduction from Parallel18 to the PR Science Trust led directly to ACEPR's founding-strategy meeting the next day and its founding deck (Aug 14, 2018), which explicitly models ACEPR on Parallel18's own accelerator structure — see Parallel18 entry below.
 - **Context (confirmed by Jay 2026-06-30):** Founded post-Maria, during/after the longest and most deadly power outage in U.S. history — funding for new ventures was extremely difficult in that environment. PREB (Puerto Rico Energy Bureau) had just issued regulation permitting electric utility cooperatives to form and operate for the first time; when that opportunity opened island-wide, ACEPR organized the emerging industry (cooperatives + solar/battery installers) to capture the momentum. PREB was overwhelmed by the volume of entities needing certification; Jay worked directly with PREB to streamline their certification process and hold public comment.
 - **Numbers confirmed via Mario Landau-Holdsworth's resume (colleague), 2026-06-30: 46 MW hydroelectric dam, 150-building mixed residential/commercial portfolio, 800 distributed homes in a mountainous community.** Supersedes the earlier "8 cooperatives, 100–200kW projects" figures.
 - **Outcomes (confirmed by Jay 2026-06-30; project/community names intentionally withheld — do not use in any materials):**
@@ -199,28 +201,70 @@
 - Source: master-profile.md, resilientmarkets.com bio export; Google Drive discovery 2026-06-30 (Mario Landau-Holdsworth resume); `experiences/acepr/README.md`; Jay 2026-06-30/07-01
 - `[NEW]` Corvidae remains an active financial entity in 2026 — Venmo account `@corvidae` still in use (e.g., $500 payment to "Jonathan Youtt" for "Trailer," May–June 2026); GoDaddy domain still maintained under corvidaelabs@gmail.com. **Corvidae may not be fully wound down** — worth clarifying current status vs. resume's "2017–2020" end date. `[CONFIRM Corvidae's current operating status]`
 
-### Resilient Markets (LLC) — Managing Partner / Co-founder
-- **2020–present**, Albany/Bay Area, CA
-- Climate strategy, engineering, product development, marketing, go-to-market, implementation services for climate/clean-tech clients
-- Co-founded with **Sandra Kwak** (also CEO/Founder of 10Power) — confirmed via shared tax filings
-- Source: master-profile.md, resilientmarkets.com homepage export
-- `[NEW]` Confirmed via Gmail: Resilient Markets LLC has filed tax returns for **2020, 2021, 2022, and 2025** via accountant Jae Starfox (Radical Accountant) — confirms LLC has been continuously operating 2020–2025+ (resume says "2020–present," consistent)
-- **MaxETA, resolved 2026-06-30:** MaxETA is a contracting firm started by a **former PREB (Puerto Rico Energy Bureau) commissioner**, working directly for the sitting PREB commissioners — grew directly out of the ACEPR/PREB certification-streamlining relationship above. Jay's team sits close to PREB's day-to-day decision-making, with oversight visibility across **LUMA, Genera, HydroCo, PREPA, third-party aggregators, electric utility cooperatives, and other PR service providers.** Recurring weekly Google Calendar meetings through June 2026 ("Maxeta Meeting," "Maxeta rate case"). This is Jay's **most current, active body of work** and should be prominently represented.
-- `[NEW]` Active 2026 correspondence with **oscar@sailrelief.team** ("Sail Relief") — you are supplying PREPA/LUMA/Genera regulatory docket links (NEPR rate case dockets, 90-day plans, FEMA's $102M solar microgrid Phase 1 approval) — suggests an advisory or informal collaboration on current Puerto Rico grid recovery efforts, separate from/alongside MaxETA. `[CONFIRM relationship to Sail Relief and whether this is paid/unpaid, formal/informal]`
+### Parallel18 — Judge / Mentor; direct origin network and organizational template for ACEPR
+- **Aug 2018 – at least Oct 2024**, remote judging + Puerto Rico network
+- **Updated 2026-07-02 — more than a volunteer role:** a dated Gmail chain shows Parallel18 staff introducing Jay to the PR Science Trust on Aug 6, 2018; ACEPR's founding-strategy meeting the very next day; and ACEPR's actual founding pitch deck (Aug 14, 2018) explicitly naming Parallel18 as the accelerator-model template for ACEPR's own structure
+- Separately, a real 6-year standing volunteer commitment: judge/mentor across at least 7 "pre18" pre-accelerator generations plus multiple main-track P18 generations (2019–2024), continuing through Jay's own COVID-era move back to California
+- Open question: a Nov 2018 email shows Jay asking a P18 cohort founder for a copy of his P18 agreement "just curious how they go about it" — unclear whether ACEPR itself was ever explored as a P18 cohort company, not yet confirmed with Jay
+- Source: `experiences/parallel-18/README.md`; Gmail (Aug 2018 founding chain, recurring judge invitations 2019–2024); Google Drive (ACEPR founding deck); parallel18.com; Jay 2026-07-02
+
+### Volunteer Work — consolidated, unpaid engagements distinct from paid client/employer history
+- **~Dec 2015 – present**, Puerto Rico, South Africa, Uganda, Peru, Argentina
+- **La Finca de Hamberto (Vieques, PR, recurring ~2018–2020+)** — with Oscar Ruiz (also an ACEPR true co-founder), a regenerative farm/community resilience center; Jay did farm work in exchange for stay, and much of ACEPR's early strategy work happened on-site. Oscar's own post-Maria story (sailing solar panels/batteries from DC to Fajardo, then orienting Jay to the island her first week) is the direct reason she had context to recognize the PREB regulation news that led to ACEPR's founding.
+- **Sail Relief (school near Cape Town, South Africa, April 2026)** — Jay did not personally design the microgrid; she connected Oscar Ruiz and Jeff Barbee (Scarab Tech) together, and vetted the partners/project on Sail Relief's behalf.
+- **Fenix International (Kampala, Uganda + an unnamed refugee settlement, ~2017)** — assisted longtime close friend Sara Norris; field visit to a refugee settlement with Mike Zuckerman taught Jay that projects in resource-scarce settings must be kept dead simple, since any added complexity or scale risks failure or backlash.
+- **Terraqua Barranca (Peru, ~Dec 2015)** — volunteered under Sara Norris on a real duckweed + ozone-disinfection wastewater treatment facility (independently confirmed, led by Paul Skillicorn/Agriquatics) diverting a city sewage pipe from ocean discharge into recycled water and crop.
+- **Earthwatch "Trailing Penguins in Patagonia" (Argentina, Oct 14–20 2023)** — with her mother (Melinda) and brother (Ryan), under PI Dr. Gabriela Blanco; penguin foraging/GPS data used as a proxy for regional fish-population health, feeding into cross-border fishing/conservation policy.
+- **Through-line (Jay's own words, 2026-07-03):** she doesn't travel as a tourist — she travels to understand local conservation/social/environmental movements, energy-transition politics, climate-change impacts on demographics, and the regulatory landscape for clean-market expansion, the same "40k and 0ft" instinct she applies to her paid work. In her own words, she's constantly curious about the adoption psychology and behavior of different cultures toward applied technology in conservation, water, energy, and agriculture — effectively running informal "customer interviews" everywhere she goes, disguised as curiosity about people's lives.
+- Source: `experiences/volunteer-work/README.md`; Gmail/Drive research; independent sources (Terraqua Barranca, Earthwatch); Jay 2026-06-30/07-02/07-03
+
+### Resilient Markets, LLC — Co-founder / Managing Partner
+- **Founded May–June 2020–present**, registered at 403 Fair Oaks St Apt 1, San Francisco, CA
+- **Restructured 2026-07-03, per Jay's clarification:** a real 4-person co-founded LLC — Jay, **Sandra Kwak** (also CEO/Founder of 10Power), **Mario Landau-Holdsworth**, and **Mimi Zemmelman/Lee, PhD** — formed as equal partners; Corvidae was effectively wound down and absorbed into RM, with Jay's active Corvidae clients (including Scarab Tech) moved over at formation. Kelly Erhart was considered but explicitly kept as a subcontractor, not a shareholder.
+- Real signed operating agreement (June 2020), Beneficial State Bank account with all 4 as co-signers, continuous CA Form 568 LLC tax filings 2020–2025 (EIN 85-1350120)
+- **Revenue-split structure (Jay, 2026-07-03):** equal ownership/partnership, but dividends were split by a blended formula — each partner's client revenue weighted by how much business they personally brought in, a 15% admin fee off the top for shared overhead, and that admin pool split evenly among all four since admin support was shared work
+- Climate strategy, engineering, product development, marketing, go-to-market, and implementation services for climate/clean-tech clients; real written Operations Manual with an explicit values screen ("does this project contribute to a regenerative future?") and a proprietary hardware-startup readiness framework
+- Client roster: **MaxETA** (see below), **10Power/Eklutna**, **New Power Industry** (Eli Whipple), **Sol Solutions**, **Land Art Generator Initiative** — full detail in `experiences/resilient-markets-maxeta/README.md`
+- Source: `experiences/resilient-markets-maxeta/README.md`; Gmail (formation chain, operating agreement, tax filings); Jay 2026-06-30/07-03
+
+#### Resilient Markets client: MaxETA — Contractor
+- Grew directly out of the ACEPR/PREB certification-streamlining relationship — MaxETA is a contracting firm started by a **former PREB commissioner**, working directly for sitting PREB commissioners
+- Jay's team has oversight visibility across LUMA, Genera, HydroCo, PREPA, third-party aggregators, and electric utility cooperatives; active on the 2026 PREB rate case using AI tools for public-comment/discovery management
+- Confirmed genuinely current and high-cadence: weekly recurring meetings and real monthly invoicing (Maxeta Energy LLC, ~$3K–$14K/month) through at least mid-2026
+- This is Jay's most current, active body of paid work
+- Source: `experiences/maxeta/README.md`; Gmail/Drive (calendar cadence, sales invoices); Jay 2026-06-30/07-03
+
+#### Resilient Markets client: Sol Solutions — Advisor/Consultant
+- Relationship traces back to Jay's APL years (2018, mutual-referral relationship with CEO Chaz Peling); became a paid RM client by 2021, including real crowdfunding-video/fundraising strategy work targeting Sonoma County investors
+- Relationship ended with unpaid "bad debt" (per a Dec 2022 internal RM email); the underlying business, a Santa Rosa solar-equipment/event-rental showroom, was confirmed defunct by 2024
+- Source: `experiences/sol-solutions/README.md`; Gmail (Zoom meeting records, crowdfunding video plan, bad-debt email); Jay 2026-07-03
+
+#### Land Art Generator Initiative (LAGI) — likely NOT a paid client
+- Technical Advisor / Shortlisting Committee juror for the LAGI 2020 Fly Ranch renewable-energy design challenge (with Burning Man Project), Nov 2020–March 2021
+- No contract, invoice, or payment record found — appears to be unpaid volunteer judging, the same pattern previously found for Max Energy Lab; do not count as a Resilient Markets paid client without further confirmation
+- Source: `experiences/land-art-generator-initiative/README.md`; Gmail (LAGI/Burning Man Project correspondence); Jay 2026-07-03
 
 ### resilientmarkets.com `/about-us` page — ⚠️ data quality issue
 - The live `/about-us` page currently shows **generic unedited Wix template content**: fictitious "CEO Alex Lee," offices in "Zurich, Paris, Tokyo, Belgrade," and services like "cryptocurrency investment" — none of which are real. Your actual bio (the one in `content/exports/resilientmarkets-com.md`) lives on the homepage, not /about-us.
 - **Action item independent of the portfolio/resume project:** this should be fixed or that page taken down — it actively contradicts your homepage and would confuse anyone who clicks "About Us."
 
-### 10Power — Technical Lead
-- **2020–present**, San Francisco, CA (per linkedin draft) — paid consulting relationship confirmed via Gusto payment records in Gmail
-- CEO/Founder: **Sandra Kwak** — confirmed via independent bios (Explorers Club 50, Water Innovation Advisors, Trellis, Sustainabilist podcast)
-- 10Power is a certified Benefit Corporation; mission: renewable energy access for underserved communities (Haiti, Native American tribal nations) with workforce development and gender-equity lens; operating in Haiti since 2015 (~70% of population lacks electricity)
-- **Your named project: 2024 Eklutna Energy Plan**, Alaska Native Village of Eklutna — confirmed via Gmail thread (Jan–Feb 2024) with named collaborators: Kyle Smith (ksmith@eklutnainc.com), Marc L. (marcl@eklutna.org), Christina Radmacher, alaska.community.inc@gmail.com, plus **NREL** collaborators Alyssa Pantaleo and Georgina Davis, and **Presidio Graduate School** student team (Roxane Le Corre, Genevieve Resnick, Giana Gurrera, Claire Nevels) — `[NEW]` Presidio Graduate School involvement was not previously documented in your materials
-- Confirmed paid via Gusto: "10Power Eklutna Energy Plan Pymt 1/3," $3,750, Feb 21 2024 (at least 3 installments implied)
-- `[NEW]` **10Power's flagship project is NOT Eklutna** — it's a UNICEF Haiti headquarters solar + battery storage installation, described independently as **"the largest solar installation with energy storage on any UNICEF base in the world,"** plus a solar-powered desalination plant serving ~40,000 people in Haiti, and a Haitian women-in-solar workforce program. `[CONFIRM your level of involvement in the Haiti projects vs. Eklutna specifically — your materials only mention Eklutna]`
-- Source: master-profile.md; Gmail (Eklutna thread, Gusto payment); web search (Trellis, Water Innovation Advisors, Explorers Club 50, Sustainabilist, RenewableEnergyWorld podcast, Borgen Project)
-- Note: Eklutna Hydroelectric Dam removal/restoration is a **separate, unrelated** Alaska news story (Anchorage Daily News, Alaska Public Media, 2024) involving the same village but a different hydro dam controversy — do not conflate with your energy plan work.
+### 10Power — Direct contractor relationship, separate from Resilient Markets
+- **Relationship began ~2016 (personal friendship, pre-business) — CEO/Founder Sandra Kwak, also Jay's Resilient Markets co-founder, but 10Power is her own separate company**
+- **Corrected 2026-07-03, per Jay's clarification:** 10Power pays Jay directly for 10Power project work (confirmed via a 2026 "Your 10Power 2025 Tax Documents" email sent straight to Jay) — bypassing Resilient Markets entirely, since routing it through RM would trigger an unnecessary 15% admin-fee split on money that never touches RM. Do not describe 10Power as an RM client.
+- Real direct project work found predating/outside RM: a 2018 HubSpot CRM setup for a PR cooperative-formation effort; a 2019 introduction of Sandra to Matt Wiggins/Remedy Ventures (the same IOGS financier) for a ~$7.5M raise; 2019 EDF collaboration on PR community-solar site selection; ongoing informal technical thought-partnership (2016–2019) on emerging technologies Sandra was scouting
+- **The actual origin of what became Resilient Markets was a 10Power-adjacent email**, not the LLC filing: Sandra's April 2020 "Resilient Markets Consulting Consortium" email (introducing Jay, Mario, Mimi, Brent Schulkin, Kelly Erhart, and 10Power's own Jeff as "Badass Humans") predates the actual LegalZoom LLC formation by about six weeks
+- **Flagship/most-developed direct 10Power project: the Eklutna Energy Plan** (Native Village of Eklutna, Alaska) — see its own entry below
+- **10Power's own flagship mission is Haiti** (UNICEF HQ solar+storage, desalination for ~40,000 people, women-in-solar workforce program) — run directly by Sandra; **Jay has not worked on 10Power's Haiti projects.**
+- Source: `experiences/10power/README.md`; Gmail (2016-era friendship threads, 2020 Consulting Consortium email, direct tax documents); Jay 2026-07-03
+
+#### 10Power project: Eklutna Energy Plan — Bioenergy Expert / Technical Lead
+- **2023–2024 for the published plan; ongoing follow-on work through at least November 2025**, remote (client: Native Village of Eklutna, Alaska) — paid directly by 10Power, not via Resilient Markets
+- **Eklutna Energy Plan v1.0 (Dec 2023), v2.0 (April 2024)** — jointly prepared by Native Village of Eklutna, Eklutna Inc., the Eklutna Tribal Conservation District, 10Power, and Community Business Development Inc. Jay's title in the actual TSAF grant application: **"Bioenergy Expert."** Grant figures independently confirmed via the application document itself: **$50,000 requested (TSAF), $74,000 full plan budget.**
+- Plan scope: biomass (spruce-beetle-kill wood), a 1.5 MW solar farm, hydro-dam decommissioning/retrofit options, biochar, carbon markets, workforce development, food sovereignty — an explicitly regenerative strategy aligned with Dena'ina values
+- **Work is genuinely ongoing through at least November 2025** — real "C-LEAP"/Eklutna Strategic Energy Team meeting notes show active work on the solar project (racing a June 2026 ITC deadline), an MEA interconnection study, and continued NREL modeling collaboration (Alyssa Pantaleo, Georgina Davis)
+- **Thematic callback, not Jay's own direct work:** BoxPower reappears as a vendor in 2025 meeting notes, quoted for battery/microgrid scenarios by Sandra's side of the project — Jay was not personally involved in that specific 2025 follow-up, though it echoes her own 2018 Box Power/Launch Alaska history on the same project years later
+- Source: `experiences/eklutna-10power/README.md`; Gmail/Drive (TSAF grant application, 2025 C-LEAP meeting notes, Gusto payment); Jay 2026-06-30/07-03
+- Note: Eklutna Hydroelectric Dam removal/restoration is a **separate, unrelated** Alaska news story involving the same village but a different hydro dam controversy — do not conflate with the energy plan work.
 
 ---
 
@@ -277,7 +321,7 @@ Not independently re-verified via USPTO search this pass — `[CONFIRM these are
 | Technical advisory boards: waste-plastic-to-fuel (South Africa), green-roofs/agriculture-energy co., affordable housing/sustainable infrastructure developer | Advisor | resilientmarkets.com export (homepage bio) |
 | `[NEW]` I-Corps Hub West | On mailing list — NSF entrepreneurship training network | Gmail |
 | `[NEW]` Columbia Lab-to-Market (L2M) Accelerator Network | On mailing list, Fall 2023 update received | Gmail |
-| Bay Area MakerFarm | **Founding Member (501c3), 2020–present**; Facilities & Admin Committee; annual sponsor member | Confirmed by Jay 2026-06-30 |
+| Bay Area MakerFarm | **Founding Member (Dec 2020–present)**; Facilities & Admin Committee; paying sponsor/renter. Personally found the replacement land and negotiated the below-market APC deal during a 60-day emergency relocation from the prior makerspace (Tim Anderson's site), hired a governance-structure facilitator, and was the community's first rotating Board signatory (do NOT use "Board of Directors" on the resume — it misrepresents the anarchist-collective structure, per Jay's explicit instruction). Full story in `experiences/bay-area-makerfarm/README.md`. | Confirmed by Jay 2026-06-30/07-03; Gmail/Drive (Sponsor Agreement, fridge-upgrade proposal); bayareamaker.farm |
 | `[NEW]` Starshot Capital (Sam Levac-Levey, Founding Partner) | Recurring contact forwarding climate-tech/DOE news "as a client" — relationship type unclear (investor? advisor? vendor?) | Gmail — multiple forwards 2025–2026 `[CONFIRM relationship]` |
 
 ---

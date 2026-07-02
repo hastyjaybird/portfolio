@@ -204,7 +204,7 @@ Note: a "Hasty Lab" at Vanderbilt University (Jeff M. Hasty, synthetic biology) 
 - ACEPR co-founder
 - **Bay Area MakerFarm** — Founding Member (501c3, 2020–present); Facilities & Admin Committee
 - **La Finca de Hamberto** (Vieques, PR) — recurring volunteer over Jay's ~2 years living in Puerto Rico, with Oscar Ruiz (Community Through Colors); part of a wider Sail Relief collaborative network
-- **Sail Relief** — volunteer, including a solar microgrid for an 800-student Cape Town high school (April 2026) and earlier boat/logistics support
+- **Sail Relief** — volunteer; vetted partners/installer and interviewed stakeholders for an 800-student Cape Town-area high school's solar microgrid (April 2026, did not personally design the system — see `experiences/volunteer-work/README.md`) and earlier boat/logistics support
 - See `experiences/volunteer-work/README.md` for the full consolidated list, including Terraqua Barranca (Peru), Fenix International (Uganda), and the Earthwatch Patagonia penguin expedition (Argentina) — all confirmed volunteer, not paid work.
 - `[VERIFY]` Additional boards and societies
 

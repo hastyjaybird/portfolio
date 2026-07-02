@@ -31,6 +31,12 @@
 
 The XPrize win makes a much better story once you know what actually happened underneath the headline. Most people, told their team's numbers were falling behind mid-competition, would escalate to whoever's in charge of hardware and wait. Jay's response to discovering a damaged, underperforming generator was to personally take inventory of every spare part in the shop, diagnose failure modes across multiple broken units, and assemble a working replacement generator from scratch under real time pressure — a hands-on, blue-collar-engineering instinct for solving a crisis with what's actually on hand, rather than what should be on hand. That's the difference between someone who manages an engineering team and someone who can also personally save it when things go wrong. And the story doesn't end at the trophy: a contractor dispute over IP ownership tied the team up in litigation for a year, blocking every path to commercializing a technology that had just won a global prize for solving a real water-scarcity problem. Jay's reaction to that — genuine, lasting disappointment rather than a shrug — says something honest about how much she actually cared about the mission versus the win itself. She didn't build WEDEW to collect an award; she built it to see the technology exist in the world, and watching that get strangled by one contractor's IP grab is still, by her own account, one of the more frustrating outcomes of her career.
 
+## Evaluation (2026-07-02)
+
+- **Resume/portfolio strength:** among the strongest in the whole portfolio — already correctly used as case study #1. The generator-rebuild story is genuinely rare "won it with her own hands under real time pressure" material, and the thermodynamics spreadsheet is hard, checkable proof this wasn't just a figurehead engineering-director title.
+- **Anthropic alignment angle:** already well-exploited across master-profile.md and the cover letter. The IP-lawsuit aftermath (real, lasting disappointment over a mission-driven product getting strangled by a contractor dispute) is a good secondary data point for "what do you care about beyond winning" if that question comes up in interview.
+- **Missed opportunity:** none significant — this experience is unusually complete already.
+
 ## Used in
 
 - [x] `content/master-profile.md` (case study #1)
