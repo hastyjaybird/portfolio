@@ -41,7 +41,7 @@ I am a materials scientist and serial entrepreneur who has spent 15+ years turni
 
 **Policy and resilience:** After Hurricane Maria, I spent two years in Puerto Rico working on solar and microgrid projects amid regulatory change. I co-founded and served as Executive Director of ACEPR (Aceleradora de Cooperativas Eléctricas de Puerto Rico) — a structured accelerator that trained a cohort of 8 electric utility cooperative start-ups through engineering, regulatory, financial, and organizational design. Through 10Power, I published the 2024 Eklutna Energy Plan for the Alaska Native Village of Eklutna, including designs for a data-center waste-heat greenhouse and analysis of 1.5 MW community solar, pumped hydro, biomass, and battery storage. Currently supporting the 2026 Puerto Rico Energy Bureau rate case for MaxETA, where our team deployed AI tools to manage public comment, discovery, and case records.
 
-**Building with AI:** I built ClimateDeck (Dec 2025–present) under Resilient Markets — a multi-agent AI platform for climate VC research. Nine specialized agents orchestrated via n8n; Claude (Haiku/Sonnet) for quality gating and analysis; knowledge graph with entity extraction; HITL approval workflows via Telegram; deployed on Hetzner VPS with Docker, Supabase, and Caddy. I also recently onboarded my father — a career software engineer who has run a 911 dispatch mapping company for 20+ years — onto Claude Code and API-driven development.
+**Building with AI:** I built ClimateDash (Dec 2025–present), a personal multi-agent AI prototype for climate-tech research and deal-flow discovery. Nine specialized agents orchestrated via n8n; Claude (Haiku/Sonnet) for quality gating and analysis; knowledge graph with entity extraction; HITL approval workflows via Telegram; deployed on Hetzner VPS with Docker, Supabase, and Caddy. I also recently onboarded my father — a career software engineer who has run a 911 dispatch mapping company for 20+ years — onto Claude Code and API-driven development.
 
 **What I bring:** I've worked across public sector, academia, start-ups, corporate, nonprofits, cooperatives, and VC due diligence. I've navigated wide cultural gaps across 35+ countries, built and run technical support operations at global scale, and consistently deployed real systems for underserved communities. I'm looking for roles where domain rigor, safety-first thinking, and hands-on AI experience intersect.
 
@@ -56,7 +56,11 @@ I am a materials scientist and serial entrepreneur who has spent 15+ years turni
 
 - Lead technical assessments of biomass, solar, and battery microgrids for critical infrastructure, agriculture, and water clients
 - MaxETA contract: supporting 2026 Puerto Rico Energy Bureau rate case; deployed AI tools to manage public comment, discovery, and case records in a live regulatory proceeding
-- Built **ClimateDeck** (Dec 2025–present): multi-agent AI platform for climate VC research — 9+ specialized agents via n8n, Claude (Haiku/Sonnet) for quality gating, knowledge graph with entity extraction, HITL workflows via Telegram; deployed on Hetzner VPS with Docker, Supabase, and Caddy
+
+### ClimateDash — Independent Builder (personal project)
+**Dec 2025 – Present**
+
+- Built a personal multi-agent AI prototype for climate-tech research and deal-flow discovery — 9+ specialized agents via n8n, Claude (Haiku/Sonnet) for quality gating, knowledge graph with entity extraction, bounded "research-until-saturation" pattern, HITL workflows via Telegram; deployed on Hetzner VPS with Docker, Supabase, and Caddy
 
 ### 10Power — Technical Lead
 **2020 – Present | San Francisco, CA**
@@ -146,6 +150,8 @@ I am a materials scientist and serial entrepreneur who has spent 15+ years turni
 **2010 – 2016 | Stony Brook, NY**
 
 - **PhD Research (2010–2015):** Nano-catalyst syngas-to-alcohol; Advanced Energy Research & Technology Center (AERTC) / Low Carbon Energy Lab under Prof. Devinder Mahajan
+- Personally sourced, installed, and commissioned the lab's core instrumentation and pilot-scale reactor suite (GC/GC-MS, HPLC, fixed-bed/slurry-phase/fluidized-bed reactors) in a newly-founded research center that had essentially no equipment when she arrived — an estimated $150K–$450K in analytical instrumentation and reactor systems
+- AERTC Safety Committee Lead (2013–2015)
 - **Teaching Assistant (Aug 2011–Dec 2015):** Undergraduate Process Engineering & Design in Chemical Engineering (2 semesters, 25 students); Chemical Engineering Lab (2 semesters, 20 students)
 - **Adjunct Professor (2015–2016):** Senior Design Chemical Engineering, Chemical & Molecular Engineering Department
 - Ongoing collaboration with Mahajan lab; returned 2026 to train incoming PhD students on mini-pilot unit
@@ -269,7 +275,7 @@ Summer 2007 & 2008 (two separate summers)
 - [ ] Update headline (1,000+, 3 patents, AI builder)
 - [ ] Update location to Emeryville, CA
 - [ ] Paste revised About section
-- [ ] Update all experience entries (especially SkySource title, APL deployment #s, add ClimateDeck, Red Cross CJD detail, ACEPR Executive Director)
+- [ ] Update all experience entries (especially SkySource title, APL deployment #s, add ClimateDash, Red Cross CJD detail, ACEPR Executive Director)
 - [ ] Add publications section (all 4)
 - [ ] Add patents section (all 3)
 - [ ] Add honors & awards section

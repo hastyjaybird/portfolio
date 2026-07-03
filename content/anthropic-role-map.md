@@ -130,7 +130,7 @@ Jay flagged that her profile — multi-time founder, numerous accelerator progra
 - Track record of deploying technology successfully in humanitarian/international/disaster-recovery contexts (Liberia, Puerto Rico, Alaska tribal communities) — not just selling or advising, but seeing deployments through to working in the field
 - Client-facing technical consulting across 15+ companies (Corvidae) plus direct client relationships (10Power, Eklutna, MaxETA/PREB)
 - Comfortable being the technical rigor check in a customer-facing role — same posture as PI on federal grants, translating technical reality to non-technical stakeholders
-- Recent hands-on AI-building experience (ClimateDeck, MaxETA AI tooling) shows she's not just "domain expert learning AI" but already building with Claude directly
+- Recent hands-on AI-building experience (ClimateDash, MaxETA AI tooling) shows she's not just "domain expert learning AI" but already building with Claude directly
 
 **Gaps**
 - No formal "Customer Success Manager" title on the resume — needs framing, not fabrication (the work is genuinely equivalent)
@@ -139,11 +139,11 @@ Jay flagged that her profile — multi-time founder, numerous accelerator progra
 **Resume bullets to emphasize**
 - USAID Liberia electrification (250 homes, during Ebola outbreak) — beneficial deployment under real constraints
 - Puerto Rico portfolio: ACEPR, IOGS, Eklutna — deployment success across very different institutional contexts
-- ClimateDeck + MaxETA AI tooling — direct, current Claude-building experience
+- ClimateDash + MaxETA AI tooling — direct, current Claude-building experience
 
 **Gap-closing plan**
 - Frame the humanitarian/tribal/disaster-recovery deployment history explicitly as "beneficial deployment," not generic "clean-tech consulting"
-- Document the ClimateDeck and MaxETA AI-tooling work as concrete Claude deployment case studies
+- Document the ClimateDash and MaxETA AI-tooling work as concrete Claude deployment case studies
 - Network with Public Benefit team via LinkedIn
 
 ---

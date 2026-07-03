@@ -49,19 +49,19 @@
 
 | Skill | Known from resume/notes | Level `[CONFIRM]` |
 |-------|-------------------------|-------------------|
-| Python | **Self-rated: Intermediate** (confirmed by Jay, 2026-06-30). Originated in academic statistical analysis/graphing (pandas, matplotlib, Anaconda ecosystem) during school. Plus production use building ClimateDeck (FastAPI backend, Python 3.11, per corvidae-studio code review) — AI-assisted via Cursor/Claude, not hand-written line-by-line. | Intermediate — statistical/data analysis background + AI-assisted production development |
+| Python | **Self-rated: Intermediate** (confirmed by Jay, 2026-06-30). Originated in academic statistical analysis/graphing (pandas, matplotlib, Anaconda ecosystem) during school. Plus production use building ClimateDash (FastAPI backend, Python 3.11, per corvidae-studio code review) — AI-assisted via Cursor/Claude, not hand-written line-by-line. | Intermediate — statistical/data analysis background + AI-assisted production development |
 | LaTeX | Extensive resume authoring | Proficient |
 | Arduino | Commented skills section | ? |
 | Data science / stats | PhD research, publications | Strong research methods |
-| ML / deep learning | Not documented as research, but ClimateDeck integrates Claude (Haiku/Sonnet), DeepSeek, and OpenAI embeddings in a working multi-agent pipeline | Applied/integration level, not research level |
-| LLM tools (Claude, ChatGPT, etc.) | ClimateDeck built with Cursor + Claude; production use of Claude for quality gating, summarization, agent orchestration | Hands-on, daily use |
-| SQL / databases | QstView 911 mapping DB (commented); ClimateDeck uses Supabase/Postgres with 32+ migrations and RLS policies | Working proficiency confirmed via code |
+| ML / deep learning | Not documented as research, but ClimateDash integrates Claude (Haiku/Sonnet), DeepSeek, and OpenAI embeddings in a working multi-agent pipeline | Applied/integration level, not research level |
+| LLM tools (Claude, ChatGPT, etc.) | ClimateDash built with Cursor + Claude; production use of Claude for quality gating, summarization, agent orchestration | Hands-on, daily use |
+| SQL / databases | QstView 911 mapping DB (commented); ClimateDash uses Supabase/Postgres with 32+ migrations and RLS policies | Working proficiency confirmed via code |
 | Solidworks, ChemCAD, Fusion360 | Commented skills | ? |
 | Lab instrumentation | NMR, FTIR, GC-MS, SEM, TEM, HPLC, PCR | Expert |
 
 Resolved 2026-06-30 — see Python row above.
 
-**GitHub: github.com/hastyjaybird** — ClimateDeck repo currently named `climatedash`, rename to `corvidae-studio` pending. Confirmed from corvidae-studio README, 2026-06-30.
+**GitHub: github.com/hastyjaybird** — ClimateDash repo currently named `climatedash`, rename to `corvidae-studio` pending. Confirmed from corvidae-studio README, 2026-06-30.
 
 ---
 

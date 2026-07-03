@@ -47,7 +47,7 @@ I'm now targeting Anthropic in San Francisco — roles where scientific rigor, d
 | Period | Role | Organization | Highlight |
 |--------|------|--------------|-----------|
 | 2020–present | Managing Partner | Resilient Markets | Microgrid assessments; MaxETA contract — direct contractor to PREB commissioners (grew out of ACEPR's PREB relationship), with oversight visibility across LUMA, Genera, HydroCo, PREPA, 3rd-party aggregators, and electric utility cooperatives; deployed AI tools to manage public comment, discovery, and case records for 2026 rate case |
-| Dec 2025–present | Builder (under Resilient Markets) | ClimateDeck | Multi-agent AI platform for climate VC research; 9+ specialized agents orchestrated via n8n; Claude (Haiku/Sonnet) for quality gating and analysis; full-stack deployment on Hetzner VPS with Docker, Caddy, Supabase, and Telegram HITL approval workflows; ingests patents, SEC filings, news, RSS, and social media into a knowledge graph with entity extraction; MVP deployed, actively iterating |
+| Dec 2025–present | Builder (independent/personal project) | ClimateDash | Personal multi-agent AI prototype for climate-tech research and deal-flow discovery; 9+ specialized agents orchestrated via n8n; Claude (Haiku/Sonnet) for quality gating and analysis; full-stack deployment on Hetzner VPS with Docker, Caddy, Supabase, and Telegram HITL approval workflows; ingests patents, SEC filings, news, RSS, and social media into a knowledge graph with entity extraction; MVP deployed, actively iterating |
 | 2020–present | Technical Lead | 10Power | 2024 Eklutna Energy Plan (v1.0 Dec 2023, v2.0 Apr 2024); tribal microgrid grants ($50K TSAF); preliminary designs for data center waste-heat greenhouse to extend Anchorage-area growing season; 1.5 MW community solar follow-on with NREL (active 2025–2026) |
 | 2017–2020 | Owner | Corvidae, LLC | 15+ clean-tech clients; PR industrial park microgrid work (see IOGS below) |
 | 2019–2020 | Founder / Team Lead | IOGS (Industrial Off-Grid Systems) | ISO/virtual IPP model for a 51-building, ~5,000,000 sq ft Puerto Rico industrial park portfolio; contemplated 25.2 MW / 75.6 MWh battery capacity (3-day critical-load autonomy sizing) |
@@ -55,9 +55,10 @@ I'm now targeting Anthropic in San Francisco — roles where scientific rigor, d
 | 2018 | Director of Engineering | SkySource (joint venture / spinoff of ALL Power Labs) | **Water Abundance XPrize winner** — led design, integration, testing, and validation for the winning team |
 | Feb 2018–Jan 2019 | COO / VP BD | Box Power | Mobile solar microgrid deployment; **concurrent with SkySource/XPrize work** |
 | 2015–2018 | Entrepreneurial Lead | NanoSulf | Landfill gas → transport fuels |
-| 2009–2017 | Founder → R&D Lead Engineer → Director of Technical & Customer Support → Engineering Director | ALL Power Labs | **1,000+ systems in 35+ countries** (confirmed by Jay 2026-06-30); 3 U.S. patents; NSF SBIR PI ($225K); USAID Liberia (250 homes); grew company from 7 to 39 employees |
+| 2008/2009–2017 | Founder → Director of Engineering → Director of Product Support → NSF SBIR PI → Senior Technology Advisor | ALL Power Labs | **1,000+ systems in 35+ countries** (confirmed by Jay 2026-06-30); 3 U.S. patents; NSF SBIR PI ($225K); USAID Liberia (250 homes); ~40 employees plus additional Italy/Philippines staff |
 | 2008–2009 | Chief Technology Officer | Portland Biodiesel | Believed largest 100% WVO biodiesel facility on the West Coast at the time; 1M gal/yr |
 | Mar 2007–May 2008 | Lab Technician | American Red Cross National Testing Laboratory (Portland, OR) | NAT testing for HIV, Hepatitis C, West Nile Virus; member of global research team formed in response to the Creutzfeldt-Jakob disease (CJD/vCJD) prion outbreak to prepare the lab for prion testing readiness |
+| May 2007–Jun 2008 | Research Mentor & Instructor / Lead Researcher | Windward Education & Research Center (Klickitat, WA) | Biomass2Methanol program (GTL research, grant writing, solar/aquaponics systems); first hands-on gasification work; mentor Walt Patrick first introduced her to Devinder Mahajan's name, years before her PhD |
 | 2010–2015 | Research Assistant | Stony Brook Advanced Energy Research and Technology Center (AERTC) | Nano-catalyst syngas-to-alcohol |
 | 2015–2016 | Adjunct Professor | Stony Brook | Senior Design Chemical Engineering |
 
@@ -114,12 +115,12 @@ I'm now targeting Anthropic in San Francisco — roles where scientific rigor, d
 - **Action:** Personally conducted **99–100 customer interviews** across landfill gas operators (e.g., Brookhaven Landfill, Waste Management/Altamont), EPCs (Unitel Technologies, SCS Engineers), and consultants; built segmentation (landfill ~$90M/yr, wastewater/AD ~$1.3B, oil & gas ~$300B) and a subscription-based go-to-market/pricing model (PowerBridge NY accelerator, Cycle 3).
 - **Result:** The market validation work was sound — clear segments, real pricing, a signed test-cell customer at Brookhaven Landfill — but the venture stalled in the pre-seed gap between bench validation and a funded field pilot. I moved on to other ventures (BoxPower, XPrize, ACEPR). **Correction (2026-07-01):** an earlier version of this narrative claimed the underlying science was later vindicated by "Mahajan's group winning an NSF SBIR Phase II (award #144238)." This was checked and is **false** — award #144238 belongs to an unrelated company (Intramicron, Inc., Auburn AL); a direct query of NSF's award database confirms Mahajan has never received an NSF SBIR Phase II award (his complete NSF history is 3 awards, none of them SBIR). That claim has been removed. **Follow-up research (2026-07-01) on what actually happened:** the Brookhaven feasibility study did happen (independently confirmed), but nothing in Mahajan's patents, publications, or grants shows the H2S/landfill-gas catalyst work continuing past ~2016–2018 — his research visibly pivoted to hydrogen-economy and methane/CO2-management topics instead (his only two NSF awards since are 2020 wastewater treatment, the CPWaterTech venture I also worked on, and 2022 methane-hydrogen separation). **This is still the honest-limitation story, just without the false vindication beat: I did the discovery work right, but a pre-seed venture I led didn't survive the funding gap to commercialization, and the technology line itself appears to have quietly ended rather than succeeding without me.**
 
-### 7. PhD research — syngas to mixed alcohols (2010–2015)
+### 7. PhD research — syngas to mixed alcohols, and building the lab from scratch (2010–2015)
 
-- **Situation:** Need high-yield catalytic conversion of biomass syngas.
-- **Task:** Develop nano-catalyst reaction systems.
-- **Action:** Nano-MoS₂ catalyst synthesis and characterization; publications and conference presentations including COP21.
-- **Result:** 2 journal publications; multiple conference presentations; PhD completed.
+- **Situation:** While at ALL Power Labs, Jay became independently obsessed with gas-to-liquids conversion — deep-researched the field, tracked everyone serious in it, and built her own (unsuccessful) Fischer-Tropsch reactor. That research led her to Devinder Mahajan's patents; she considered him a "rockstar" in the space. A colleague's unprompted, slightly embarrassing email inviting him to an APL workshop actually got him to visit — where he asked if she had a PhD, learned her chemistry undergrad was a compatible prerequisite, and invited her to apply to Stony Brook on the spot. Also: his lab (AERTC, now the Low Carbon Energy Lab) was brand new when she arrived — essentially empty of equipment.
+- **Task:** Develop nano-catalyst reaction systems; also personally stand up the lab's analytical and reactor infrastructure — GC/GC-MS, HPLC, and a full pilot-scale reactor suite (fixed-bed, slurry-phase, fluidized-bed) — everything except the fuel cell/membrane systems added later, which weren't hers.
+- **Action:** Nano-MoS₂ catalyst synthesis and characterization; publications and conference presentations including COP21. In parallel, sourced, price-negotiated, installed, and commissioned the lab's core instrumentation directly with vendors (PerkinElmer for GC/GC-MS, Gow-Mac for detector replacement, Omega Engineering for flow control, Parr/Equilibar for reactor back-pressure regulation) — confirmed via 2013 vendor correspondence, PO numbers, and her own equipment-inventory presentations to her advisor. Also led the lab's safety committee.
+- **Result:** 2 peer-reviewed journal publications (Fuel, 2016, ~25 citations; J. Renewable and Sustainable Energy, 2015, ~6 citations); ~10 conference talks/posters (AIChE, NSF-CBERD, NYS Biotechnology Symposium, COP21 Paris); PhD completed; an estimated $150K–$450K in analytical instrumentation and pilot-scale reactor systems assembled and commissioned personally — full detail in `experiences/phd-stony-brook/README.md`.
 
 ---
 
@@ -141,7 +142,7 @@ I'm now targeting Anthropic in San Francisco — roles where scientific rigor, d
 - Laboratory: NMR, FTIR, UV-VIS, HPLC, PCR, GC-MS, SEM, TEM, EDS
 - Engineering: gasification systems 10–150 kW, automation controls, filtration
 - Software: LaTeX, Solidworks, ChemCAD, Fusion360, ImageJ
-- Python: Intermediate — statistical analysis and graphing (pandas, matplotlib, Anaconda) from academic work; AI-assisted production development (Cursor + Claude) building ClimateDeck's FastAPI/Supabase backend
+- Python: Intermediate — statistical analysis and graphing (pandas, matplotlib, Anaconda) from academic work; AI-assisted production development (Cursor + Claude) building ClimateDash's FastAPI/Supabase backend
 - Fabrication: MIG/TIG welding, CNC, sheet metal
 
 ### Leadership
@@ -191,7 +192,8 @@ Note: a "Hasty Lab" at Vanderbilt University (Jeff M. Hasty, synthetic biology) 
 - NSF grant awards (APL, CPWater) `[VERIFY amounts]`
 - USAID grant (Liberia, 250 homes)
 - **NextGen CleanTech Funding Awardee** — PowerBridge NY (NYSERDA-funded), confirmed on LinkedIn as the specific award name associated with CPWaterTech. This IS the "NYS award" referenced throughout. Resolved 2026-06-30.
-- **Excellence in Teaching** — Stony Brook University, Material Science Engineering Dept, 2013. Associated with Advanced Energy Center. Confirmed on LinkedIn 2026-06-30. Not previously in any of our files — add to resume and LinkedIn honors section.
+- **Excellence in Teaching** — Stony Brook University, Material Science Engineering Dept, 2013. Associated with Advanced Energy Center. Self-reported on Jay's own LinkedIn (confirmed there 2026-06-30); no separate award letter found in a 2026-07-03 Gmail/Drive search, but treated as confirmed given the first-person source.
+- **AERTC Safety Committee Lead** (2013–2015) and **$150 TA award** (2013) — confirmed via Gmail 2026-07-03; see `experiences/phd-stony-brook/README.md` for full detail.
 - PowerBridge NY accelerator (NanoSulf, Cycle 3)
 
 ---
