@@ -21,11 +21,11 @@ export default function AboutPage() {
         </p>
 
         <p>
-          As Engineering Director at ALL Power Labs, I led 15 engineers and
-          scaled 150 kW biomass gasification systems to 900+ deployments across
-          35 countries. I was Principal Investigator on an NSF grant and led a
+          As Director of Engineering at ALL Power Labs, I led 15 engineers and
+          scaled 150 kW biomass gasification systems to 1,000+ deployments across
+          35+ countries. I was Principal Investigator on an NSF grant and led a
           USAID project powering 250 homes in Liberia during the Ebola
-          outbreak. I hold two patents on compact gasifier-genset architecture.
+          outbreak. I hold three patents on compact gasifier-genset architecture.
         </p>
 
         <p>

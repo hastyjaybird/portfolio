@@ -18,7 +18,7 @@ Split out from `../corvidae/README.md` on 2026-07-01 per Jay's request — every
 - Engagement terms: $3,200 total for up to 10 hrs/month for 3 months, then $150/hr — dated Jan 15, 2020.
 - Scope: techno-economic analysis for a steam reformation system; broader Corvidae service menu offered included go-to-market strategy, due diligence, customer discovery, and MRD preparation.
 - **Confirmed as a genuine paying client via PayPal business records** — contact/CEO Steven Kadiev, multiple invoiced payments ~$1,000+ each, Feb–Mar 2020.
-- Independently confirmed online: Neo-H2's HR-100 Hydrogen Generating System reformer produces hydrogen-rich gas on-demand from methanol/ethanol without storage, for ICE and fuel-cell use. Kadiev (a pulmonary/critical-care physician by training) is CEO; the catalyst/reformer was invented by his aunt and uncle. Member of the Methanol Institute. Source: [neoh2.com/team](https://www.neoh2.com/team/).
+- Independently confirmed online: Neo-H2's flagship **HR-100 Hydrogen Generating System** uses **"oxisteam reforming"** to produce on-demand hydrogen-rich gas at **35–40% concentration** from renewable alcohols/hydrocarbons, without storage, for fuel-cell and combustion-enhancement applications (web-researched 2026-07-04). Kadiev (a pulmonary/critical-care physician by training) is CEO; the catalyst/reformer was invented by his aunt and uncle. Member of the Methanol Institute. Source: [neoh2.com/team](https://www.neoh2.com/team/).
 
 ## Assets found (2026-07-01)
 

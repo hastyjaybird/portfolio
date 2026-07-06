@@ -18,7 +18,7 @@ Source data for an interactive map feature on the portfolio site: hovering/click
 ### South Africa — Johannesburg
 - **When:** 2019–current (per Scarab Tech advisor role dates)
 - **Type:** Work
-- **Blurb:** Advised Scarab Tech, a Johannesburg-based waste-plastic-to-fuel company, on go-to-market strategy, MVP development, and engineering strategy.
+- **Blurb:** Advised Scarab Tech, a Johannesburg-based waste-to-fuel company, on go-to-market strategy, MVP development, and engineering strategy.
 - **Source:** `experiences/corvidae/` (Scarab Tech)
 - **Confidence:** High
 
@@ -187,4 +187,4 @@ Source data for an interactive map feature on the portfolio site: hovering/click
 8. **USVI coral reef paper**: still not located — searched both general web and Gmail (incl. "from:julia.hasty@gmail.com"); need journal name, approx. year, or co-author names to search again.
 9. **Costa Rica**: trip date not directly confirmed in Gmail — only a matching-topic prep email found (July 2023). **Venue name ("Envision") must never appear in portfolio/resume material** — keep description generic.
 10. Once all of the above is filled in, this file becomes the source for a structured data file in `products/website/src/lib/` (e.g., `travel.ts`) that the actual map component would consume.
-11. Note: `products/website/src/lib/content.ts` currently has stale figures (900+ deployments, 2 patents, Albany CA) — needs a full sync pass against `content/master-profile.md` when we get to the website review.
+11. ~~Note: `products/website/src/lib/content.ts` currently has stale figures~~ — resolved 2026-07-03: fixed 900+→1,000+ deployments, 2→3 patents, Albany→Emeryville CA, "Engineering Director"→"Director of Engineering" across `content.ts` and `app/about/page.tsx`.

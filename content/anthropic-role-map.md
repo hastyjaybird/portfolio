@@ -83,7 +83,7 @@ Jay flagged that her profile — multi-time founder, numerous accelerator progra
 
 **Gaps**
 - Role likely expects strong Python + ML engineering
-- `[CONFIRM]` Python proficiency level
+- Python proficiency: **Intermediate** (confirmed by Jay, 2026-07-06) — statistical analysis/graphing from academic work (pandas, matplotlib, Anaconda), plus AI-assisted production development (Cursor + Claude) building ClimateDash's FastAPI/Supabase backend. Likely still a gap relative to a strong ML-engineering bar — worth having a clear-eyed answer ready for this in interviews.
 
 **Resume bullets to emphasize**
 - 1,000+ gasification deployments; microgrid portfolio in Puerto Rico

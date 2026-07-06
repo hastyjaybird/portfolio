@@ -12,6 +12,8 @@
 
 Created 2026-07-01 while sorting the Wix image export — several images clearly matched Category H items from `docs/experience-review-plan.md` (Le Attrata, The Shipyard, Instructables/Helmahawks, Sudo Room, Bay Area Derailleurs, etc.) but none of those have (or need) a full dedicated experience folder. This is a lightweight shared home for their images/material until/unless the Category H pass in the plan decides otherwise.
 
+**Update 2026-07-04**: a major deep-dive session gave several of these their own dedicated experience folders after all — see `../bay-area-derailleurs/`, `../le-attrata-therm/`, `../flaming-lotus-girls/`, `../take-3-presents/`, `../dung-beetle-project/`, `../music-creative/`, `../shadetree/`, `../community-houses/`, and `../burning-man-solar/`. The images below should be cross-checked against those new folders and moved/referenced there where they match (e.g., the Helmahawks and Bay Area Derailleurs photos below belong in `../bay-area-derailleurs/` and the Le Attrata photo belongs in `../le-attrata-therm/`). Sudo Room doesn't have its own folder — it's covered inside `../bay-area-makerfarm/README.md`'s community-history section and `../community-houses/README.md`.
+
 ## Images placed here (2026-07-01, from Wix export)
 
 - `FOLWGVVG1KB8BPG.LARGE_edited.jpg` — Jay wearing a pink furry mohawk bike helmet; matches **Instructables — Helmahawks**.

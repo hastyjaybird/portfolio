@@ -13,15 +13,15 @@
 - 15+ client portfolio; technical and thermodynamic feasibility assessments, go-to-market strategy.
 - Fields of assessment: chemical engineering/materials, catalysis, transportation fuels, green solvents, biochar, biomass energy, urea/nitrogen synthesis, DME, bio-alcohols, solar technologies, battery electrolytes.
 - Note: Corvidae is the *company*; the Puerto Rico microgrid project work under it is IOGS — see `../iogs/` — do not conflate the two.
-- `[NOTE]` Corvidae may not be fully wound down despite resume listing "2017–2020" — Venmo (`@corvidae`) and GoDaddy domain still show activity in 2026. `[CONFIRM current status]`
-- **Likely reason for the 2020 end date (found 2026-07-01, full story in `../genmoji/README.md`):** COVID-19, not a deliberate wind-down — Jay was stranded in South Africa when global flights shut down in May 2020, repatriated via the State Department to JFK, and couldn't return to Puerto Rico due to strict entry rules, relocating to Oakland, CA instead. This abrupt, involuntary relocation is the likely real driver behind Corvidae's PR-heavy client work tapering off in 2020, separate from whatever residual Venmo/domain activity persists.
+- **Resolved 2026-07-04, per Jay:** the resume end date stays **2017–2020** regardless of any residual Venmo (`@corvidae`)/GoDaddy domain activity in 2026 — that's internal-tracking trivia only, not relevant to the stated end date, and won't appear in any external-facing doc.
+- **Likely reason for the 2020 end date (found 2026-07-01, full story in `../genmoji/README.md`):** COVID-19, not a deliberate wind-down — Jay was stranded in South Africa when global flights shut down in May 2020, repatriated via the State Department to JFK, and couldn't return to Puerto Rico due to strict entry rules, relocating to Oakland, CA instead. This abrupt, involuntary relocation is the likely real driver behind Corvidae's PR-heavy client work tapering off in 2020.
 
 ## Client list — each now has its own experience folder (split out 2026-07-01 per Jay's request)
 
 This section used to hold the full detail for every client; as of 2026-07-01, each real client has been split into its own experience folder with the full sourced detail. This section is now just an index — see each folder for the complete write-up.
 
 - **[Neo-H2](../neoh2o/README.md)** — hydrogen steam-reformation techno-economic analysis, Rock Hill SC, Jan–Mar 2020. Confirmed paying client.
-- **[Scarab Tech](../scarab-tech/README.md)** — plastic-to-fuel advisory, Johannesburg SA, Feb 2019–ongoing. Confirmed paying client.
+- **[Scarab Tech](../scarab-tech/README.md)** — waste-to-fuel advisory, Johannesburg SA, Feb 2019–ongoing. Confirmed paying client.
 - **[Charm Industrial](../charm-industrial/README.md)** — engineering design consulting on biomass-to-hydrogen, SF, Feb–Jun 2018 (during the company's earliest, pre-pivot phase, before it became known for carbon removal).
 - **[Celeres](../celeres/README.md)** — technical/investment due diligence for a VC firm, reviewing companies including Blume Distillation.
 - **[Genmoji](../genmoji/README.md)** — solar/wind business & project development, San Juan PR, Nov 2018–ongoing. Partner behind the "Airmoji" wind turbine.
@@ -52,7 +52,7 @@ Cross-checked against your own client-folder organization system — no addition
 - `images/logo_corvidae.jpg` — Corvidae's own logo (found in Drive, not a client logo).
 - `pdfs/corvidae-service-agreement-neoh2-signed.pdf` — actual signed Master Service Agreement + proposal with Neo-H2, dated Jan 2020, $150/hr rate, $3,200/mo engagement fee for the first 3 months — real primary-source evidence of Corvidae's business terms and Jay's own proposal-writing voice.
 - Client logos already in folder: Charm Industrial, C-Change Labs, Scarab Tech (Dung Beetle), TeamHouse.
-- No public web presence found for "Corvidae LLC" itself under any domain search — consistent with a consulting practice that never had (or no longer has) a marketing website; the Venmo/GoDaddy activity noted below remains the only signal of possible continued existence.
+- No public web presence found for "Corvidae LLC" itself under any domain search — consistent with a consulting practice that never had (or no longer has) a marketing website.
 
 ## Summary — why this is compelling
 

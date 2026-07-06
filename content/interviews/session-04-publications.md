@@ -48,9 +48,10 @@ Note: do not confuse with the "Hasty Lab" at Vanderbilt (Jeff M. Hasty, syntheti
 | 2006 | Synthesis & Characterization of Novel Carbon Based Solid Acid Catalysts… | Blue Ridge ACS Regional Meeting |
 
 **Commented (not on active resume):**
-- Verge / GreenBiz Conference 2016 — "Energy Meets Biomass, Climate and Agriculture"
 - COP21 Regenerative Agriculture workshop (listed above)
 - Mountain-top removal presentations 2005–2006
+
+**Removed 2026-07-04, per Jay:** Verge/GreenBiz Conference 2016 ("Energy Meets Biomass, Climate and Agriculture") was never an academic talk — it was Jay coordinating/running a live microgrid demo with real equipment. Don't list it as a publication/presentation; see the "GreenBiz Verge Conference Microgrid" role in `experiences/all-power-labs/README.md` instead.
 
 ---
 

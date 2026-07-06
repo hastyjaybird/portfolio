@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.6.28)  29 JUN 2026 22:19
+This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.6.28)  4 JUL 2026 00:30
  restricted system commands enabled.
 **resume.tex
 (./resume.tex
@@ -1117,26 +1117,26 @@ File: bkm-luatex.def 2026-05-21 v1.32 bookmark driver for luaTeX (HO)
 (./pdf/resume.aux)
 \openout1 = resume.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
@@ -1195,51 +1195,51 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 22.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 23.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 22.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 23.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 22.
+(Font)              `operators' in the math version `normal' on input line 23.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> TU/latinmodern-math.otf(1)/m/n on input
- line 22.
+ line 23.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 22.
+(Font)              `operators' in the math version `bold' on input line 23.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/latinmodern-math.otf(1)/b/n on inpu
-t line 22.
+t line 23.
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `normal' on input line 22.
+(Font)              `symbols' in the math version `normal' on input line 23.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
 (Font)                  OMS/cmsy/m/n --> TU/latinmodern-math.otf(2)/m/n on inpu
-t line 22.
+t line 23.
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `bold' on input line 22.
+(Font)              `symbols' in the math version `bold' on input line 23.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
 (Font)                  OMS/cmsy/b/n --> TU/latinmodern-math.otf(2)/b/n on inpu
-t line 22.
+t line 23.
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
 (Font)              `largesymbols' in the math version `normal' on input line 2
-2.
+3.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
 (Font)                  OMX/cmex/m/n --> TU/latinmodern-math.otf(3)/m/n on inpu
-t line 22.
+t line 23.
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 22.
+(Font)              `largesymbols' in the math version `bold' on input line 23.
 
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/cmex/m/n --> TU/latinmodern-math.otf(3)/b/n on inpu
-t line 22.
-Package hyperref Info: Link coloring OFF on input line 22.
+t line 23.
+Package hyperref Info: Link coloring OFF on input line 23.
 \headertextwidth=\skip89
 \headerphotowidth=\skip90
 
-Overfull \hbox (1.46pt too wide) in paragraph at lines 23--24
+Overfull \hbox (1.46pt too wide) in paragraph at lines 24--25
 [][] [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--24
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
 
  []
 
@@ -1247,20 +1247,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--24
 LaTeX Font Info:    Font shape `TU/SourceSans3(0)/l/sl' in size <9> not availab
 le
 (Font)              Font shape `TU/SourceSans3(0)/l/it' tried instead on input 
-line 14.
+line 15.
 LaTeX Font Info:    Font shape `TU/SourceSans3(0)/l/sl' in size <8> not availab
 le
 (Font)              Font shape `TU/SourceSans3(0)/l/it' tried instead on input 
-line 14.
+line 15.
 ) (./sections/skills.tex) (./sections/education.tex
+[1
+
+{/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 Overfull \hbox (2.92001pt too wide) in paragraph at lines 9--16
      [] 
  []
 
-) (./sections/honors.tex) [1
-
-{/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./pdf/
-resume.aux)
+) (./sections/honors.tex) [2] (./pdf/resume.aux)
  ***********
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-06-18>
@@ -1268,15 +1268,15 @@ L3 programming layer <2026-06-18>
 )
 
 Here is how much of LuaTeX's memory you used:
- 36385 strings out of 475704
- 125086,1648299 words of node,token memory allocated
+ 36386 strings out of 475704
+ 156364,1648299 words of node,token memory allocated
  650 words of node memory still in use:
    6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 8 attribute, 83 glue_spec,
  8 attribute_list, 2 write nodes
-   avail lists: 1:1,2:1624,3:565,4:538,5:909,6:258,7:8204,8:2,9:1626,10:19,11:42
-8
+   avail lists: 1:6,2:1503,3:561,4:460,5:1806,6:233,7:14184,8:2,9:1460,10:23,11:
+957
  58469 multiletter control sequences out of 65536+600000
- 95 fonts using 43345679 bytes
+ 95 fonts using 43345603 bytes
  131i,11n,127p,636b,1448s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2026/texmf-dist/fonts/opentype/public/lm-math/latinmodern-ma
 th.otf></usr/local/texlive/2026/texmf-dist/fonts/opentype/adobe/sourcesans/Sourc
@@ -1292,10 +1292,10 @@ e/roboto/Roboto-Italic.otf></usr/local/texlive/2026/texmf-dist/fonts/opentype/ad
 obe/sourcesans/SourceSans3-Regular.otf></usr/local/texlive/2026/texmf-dist/fonts
 /opentype/google/roboto/Roboto-Bold.otf></usr/local/texlive/2026/texmf-dist/font
 s/opentype/google/roboto/Roboto-Light.otf>
-Output written on resume.pdf (1 page, 46243 bytes).
+Output written on resume.pdf (2 pages, 52829 bytes).
 
-PDF statistics: 111 PDF objects out of 1000 (max. 8388607)
- 68 compressed objects within 1 object stream
- 6 named destinations out of 1000 (max. 1048576)
+PDF statistics: 116 PDF objects out of 1000 (max. 8388607)
+ 72 compressed objects within 1 object stream
+ 7 named destinations out of 1000 (max. 1048576)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 

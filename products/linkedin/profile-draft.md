@@ -26,7 +26,6 @@ PhD Scientist & Serial Entrepreneur | Built Multi-Agent AI Platform | XPrize Win
 
 ## Contact info
 - Email: jay@resilientmarkets.com
-- Website: resilientmarkets.com
 - GitHub: github.com/hastyjaybird
 
 ---
@@ -35,11 +34,11 @@ PhD Scientist & Serial Entrepreneur | Built Multi-Agent AI Platform | XPrize Win
 
 I am a materials scientist and serial entrepreneur who has spent 15+ years turning research into deployed systems — from nano-catalyst labs to 1,000+ biomass gasification installations across 35+ countries, and now to multi-agent AI platforms.
 
-**Research foundation:** PhD in Materials Science and Engineering from Stony Brook University. Published peer-reviewed work on catalytic syngas conversion (*Fuel*, 2016; 25 citations) and landfill gas management (*J. Renewable and Sustainable Energy*, 2015). Also published on organic wood chemistry (*Holzforschung*, 2008) and inorganic chemistry (*Inorg. Chim. Acta*, 2007). Presented at a Kiss the Ground / Project Drawdown / Regeneration International workshop at COP21 in Paris on agricultural greenhouse gas emissions. Named inventor on 3 U.S. patents for compact gasifier-genset architecture (All Power Labs, 2014–2017).
+**Research foundation:** PhD in Materials Science and Engineering from Stony Brook University, where I did nano-catalyst synthesis (via sonication), characterization, and performance testing for catalytic syngas conversion. Published peer-reviewed work on that research (*Fuel*, 2016; 25 citations) and on landfill gas management (*J. Renewable and Sustainable Energy*, 2015). Also published on organic wood chemistry (*Holzforschung*, 2008) and inorganic chemistry (*Inorg. Chim. Acta*, 2007). Presented at a Kiss the Ground / Project Drawdown / Regeneration International workshop at COP21 in Paris on agricultural greenhouse gas emissions. Named inventor on 3 U.S. patents for compact gasifier-genset architecture (All Power Labs, 2014–2017).
 
-**Deployment at scale:** As Engineering Director at ALL Power Labs (2009–2017), I grew the team from 7 to 39 engineers and scaled 150 kW gasification systems to 1,000+ sites in 35+ countries. I was Principal Investigator on a $225K NSF SBIR grant and led a USAID project powering 250 homes in Liberia through the Ebola outbreak. As Director of Engineering at SkySource (an ALL Power Labs joint venture), I led the team that won the 2018 Water Abundance XPrize ($1.5M) — designing, integrating, testing, and validating a biomass-powered atmospheric water system producing 2,000 L/day at 2¢/L.
+**Deployment at scale:** As Director of Engineering at ALL Power Labs (2009–2017), I grew the team to 50 employees (core Berkeley staff plus international staff in Italy and the Philippines) and scaled 150 kW gasification systems to 1,000+ sites in 35+ countries. I was Principal Investigator on a $225K NSF SBIR grant and led a USAID project powering 250 homes in Liberia through the Ebola outbreak. As Director of Engineering at SkySource (an ALL Power Labs joint venture), I led the team that won the 2018 Water Abundance XPrize ($1.5M Grand Prize) — designing, integrating, testing, and validating a biomass-powered atmospheric water system producing 2,000 L/day at 2¢/L.
 
-**Policy and resilience:** After Hurricane Maria, I spent two years in Puerto Rico working on solar and microgrid projects amid regulatory change. I co-founded and served as Executive Director of ACEPR (Aceleradora de Cooperativas Eléctricas de Puerto Rico) — a structured accelerator that trained a cohort of 8 electric utility cooperative start-ups through engineering, regulatory, financial, and organizational design. Through 10Power, I published the 2024 Eklutna Energy Plan for the Alaska Native Village of Eklutna, including designs for a data-center waste-heat greenhouse and analysis of 1.5 MW community solar, pumped hydro, biomass, and battery storage. Currently supporting the 2026 Puerto Rico Energy Bureau rate case for MaxETA, where our team deployed AI tools to manage public comment, discovery, and case records.
+**Policy and resilience:** After Hurricane Maria, I spent two years in Puerto Rico working on solar and microgrid projects amid regulatory change. I co-founded and served as Executive Director of ACEPR (Aceleradora de Cooperativas Eléctricas de Puerto Rico) — a structured accelerator that trained a cohort of 8 electric utility cooperative start-ups through engineering, regulatory, financial, and organizational design. Through 10Power, I published the 2024 Eklutna Energy Plan for the Alaska Native Village of Eklutna, including designs for a data-center waste-heat greenhouse and analysis of 1.5 MW community solar, pumped hydro, biomass, and battery storage. Currently a direct contractor to the Puerto Rico Energy Bureau (PREB), on the writing team for the 2026 rate case — the most legally and technically challenging rate case in US history — where our team also deployed AI tools to manage public comment, discovery, and case records.
 
 **Building with AI:** I built ClimateDash (Dec 2025–present), a personal multi-agent AI prototype for climate-tech research and deal-flow discovery. Nine specialized agents orchestrated via n8n; Claude (Haiku/Sonnet) for quality gating and analysis; knowledge graph with entity extraction; HITL approval workflows via Telegram; deployed on Hetzner VPS with Docker, Supabase, and Caddy. I also recently onboarded my father — a career software engineer who has run a 911 dispatch mapping company for 20+ years — onto Claude Code and API-driven development.
 
@@ -55,7 +54,7 @@ I am a materials scientist and serial entrepreneur who has spent 15+ years turni
 **2020 – Present | Emeryville, CA**
 
 - Lead technical assessments of biomass, solar, and battery microgrids for critical infrastructure, agriculture, and water clients
-- MaxETA contract: supporting 2026 Puerto Rico Energy Bureau rate case; deployed AI tools to manage public comment, discovery, and case records in a live regulatory proceeding
+- Direct contractor to the Puerto Rico Energy Bureau (PREB): on the writing team for the 2026 rate case; deployed AI tools to manage public comment, discovery, and case records in a live regulatory proceeding
 
 ### ClimateDash — Independent Builder (personal project)
 **Dec 2025 – Present**
@@ -96,12 +95,12 @@ I am a materials scientist and serial entrepreneur who has spent 15+ years turni
 - Led team through design, integration, testing, and validation of stand-alone system producing 2,000 L/day at ~2¢/L using 100% renewable energy
 - Concurrent with COO/VP BD role at Box Power
 
-### ALL Power Labs — Founder & Engineering Director
+### ALL Power Labs — Founder & Director of Engineering
 **2009 – 2017 | Berkeley, CA**
 
-*Title progression: R&D Lead Engineer (2009–2011) → Director of Technical & Customer Support (2010–2014) → Engineering Director*
+*Title progression: Founder → Director of Engineering → Director of Product Support → NSF SBIR Principal Investigator → Senior Technology Advisor*
 
-- Grew company from 7 to 39 employees; **1,000+ deployments in 35+ countries**
+- Grew company to **50 employees** (core Berkeley staff plus international staff in Italy and the Philippines); **1,000+ deployments in 35+ countries**
 - Named inventor on **3 U.S. patents**: US8829695B2 (2014), US9476352B2 (2016), US9780623B2 (2017) — compact gasifier-genset architecture
 - **NSF SBIR Phase I Principal Investigator** ($225K): "Development of The Fuel Agnostic Swirl Hearth Gasifier" (2016–2017)
 - **USAID project lead**: electrification of 250 homes in Liberia during the Ebola outbreak (EcoPower Liberia)

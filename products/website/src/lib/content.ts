@@ -2,19 +2,18 @@ export const siteConfig = {
   name: "Dr. Julia Hasty",
   title: "Dr. Julia Hasty — Materials Scientist & Clean Energy",
   description:
-    "PhD materials scientist. XPrize winner. 900+ energy deployments in 35+ countries. Microgrids, water systems, and energy policy.",
+    "PhD materials scientist. XPrize winner. 1,000+ energy deployments in 35+ countries. Microgrids, water systems, and energy policy.",
   email: "jay@resilientmarkets.com",
   phone: "540.798.2312",
-  location: "Albany, CA",
+  location: "Emeryville, CA",
   linkedin: "https://www.linkedin.com/in/dr-jay/",
-  businessSite: "https://www.resilientmarkets.com",
 };
 
 export const highlights = [
-  { label: "Deployments", value: "900+" },
+  { label: "Deployments", value: "1,000+" },
   { label: "Countries", value: "35+" },
   { label: "XPrize", value: "2018" },
-  { label: "Patents", value: "2" },
+  { label: "Patents", value: "3" },
 ];
 
 export const projects = [
@@ -24,7 +23,7 @@ export const projects = [
     org: "SkySource",
     year: "2018",
     summary:
-      "Winner of the 2018 Water Abundance XPrize. Designed a biomass-powered atmospheric water system producing 2,000 L/day at ~2¢/L.",
+      "Winner of the 2018 Water Abundance XPrize ($1.5M Grand Prize). Designed a biomass-powered atmospheric water system producing 2,000 L/day at ~2¢/L.",
     tags: ["Water", "Biomass", "Systems Engineering"],
   },
   {
@@ -33,7 +32,7 @@ export const projects = [
     org: "ALL Power Labs",
     year: "2009–2017",
     summary:
-      "Engineering Director leading 15 engineers. Scaled 150 kW gasification systems to 900+ deployments in 35+ countries. NSF PI and USAID project lead.",
+      "Director of Engineering leading 15 engineers. Scaled 150 kW gasification systems to 1,000+ deployments in 35+ countries. NSF PI and USAID project lead.",
     tags: ["Gasification", "Scale-up", "NSF", "USAID"],
   },
   {
@@ -103,7 +102,7 @@ export const patents = [
 ];
 
 export const awards = [
-  "Winner, 2018 Water Abundance XPrize (SkySource)",
+  "Winner, 2018 Water Abundance XPrize ($1.5M Grand Prize, SkySource)",
   "NSF grant awards (ALL Power Labs, CPWater Tech)",
   "USAID grant — Liberia electrification, 250 homes",
   "New York State innovation award (CPWater Tech)",
